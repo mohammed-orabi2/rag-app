@@ -1,0 +1,6 @@
+[2025-12-10 09:54:40] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-12-10 09:54:44] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.116s)
+[2025-12-10 09:55:40] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-12-10 09:57:58] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-12-10 10:00:44] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-12-10 10:03:16] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)

@@ -1,0 +1,718 @@
+[2025-11-28 10:06:14] INFO in app.main: 🚀 Starting application...
+[2025-11-28 10:06:14] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 10:06:14] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 10:06:14] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 10:06:14] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 10:06:14] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 10:06:14] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 10:06:14] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 10:06:15] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 10:06:15] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 10:06:15] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 10:06:15] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 10:06:15] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 10:06:16] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 10:06:16] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 10:06:16] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 10:06:16] INFO in app.core.src.prompts:   ✅ Loaded: excluded_ids_test_prompt
+[2025-11-28 10:06:16] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 10:06:16] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 10:06:23] INFO in app.main: ✅ Embedding model pre-loaded successfully in 6.79s
+[2025-11-28 10:06:23] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 10:06:23] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 10:06:23] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 10:06:23] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 10:06:27] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.238s)
+[2025-11-28 10:06:27] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.24s
+[2025-11-28 10:06:27] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 10:06:27] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 10:06:30] INFO in app.main: 🚀 Starting application...
+[2025-11-28 10:06:30] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 10:06:30] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 10:06:30] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 10:06:31] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 10:06:31] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 10:06:31] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 10:06:31] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 10:06:31] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 10:06:32] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 10:06:32] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 10:06:32] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 10:06:32] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 10:06:32] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 10:06:33] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 10:06:33] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 10:06:33] INFO in app.core.src.prompts:   ✅ Loaded: excluded_ids_test_prompt
+[2025-11-28 10:06:33] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 10:06:33] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 10:06:40] INFO in app.main: ✅ Embedding model pre-loaded successfully in 6.75s
+[2025-11-28 10:06:40] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 10:06:40] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 10:06:40] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 10:06:40] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 10:06:45] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 5.432s)
+[2025-11-28 10:06:45] INFO in app.main: ✅ Retrievers pre-loaded successfully in 5.43s
+[2025-11-28 10:06:45] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 10:06:45] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 10:06:49] INFO in app.main: 🚀 Starting application...
+[2025-11-28 10:06:49] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 10:06:49] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 10:06:49] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 10:06:49] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 10:06:49] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 10:06:49] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 10:06:50] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 10:06:50] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 10:06:50] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 10:06:50] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 10:06:50] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 10:06:51] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 10:06:51] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 10:06:51] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 10:06:51] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 10:06:51] INFO in app.core.src.prompts:   ✅ Loaded: excluded_ids_test_prompt
+[2025-11-28 10:06:51] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 10:06:51] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 10:06:57] INFO in app.main: ✅ Embedding model pre-loaded successfully in 5.68s
+[2025-11-28 10:06:57] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 10:06:57] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 10:06:57] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 10:06:57] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 10:07:01] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.353s)
+[2025-11-28 10:07:01] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.35s
+[2025-11-28 10:07:01] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 10:07:01] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 10:42:37] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 10:42:37] INFO in app: 🔌 Database disconnected
+[2025-11-28 10:42:37] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 10:42:41] INFO in app.main: 🚀 Starting application...
+[2025-11-28 10:42:41] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 10:42:41] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 10:42:41] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 10:42:41] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 10:42:42] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 10:42:42] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 10:42:42] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 10:42:42] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 10:42:42] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 10:42:43] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 10:42:43] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 10:42:43] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 10:42:43] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 10:42:43] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 10:42:43] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 10:42:44] INFO in app.core.src.prompts:   ✅ Loaded: excluded_ids_test_prompt
+[2025-11-28 10:42:44] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 10:42:44] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 10:42:51] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.10s
+[2025-11-28 10:42:51] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 10:42:51] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 10:42:51] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 10:42:51] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 10:42:56] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.899s)
+[2025-11-28 10:42:56] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.90s
+[2025-11-28 10:42:56] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 10:42:56] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:16:31] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 11:16:31] INFO in app: 🔌 Database disconnected
+[2025-11-28 11:16:31] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 11:16:38] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:16:38] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:16:38] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:16:38] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:16:38] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:16:38] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:16:38] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:16:39] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:16:39] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:16:39] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:16:39] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:16:39] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:16:40] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:16:40] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:16:40] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:16:40] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:16:40] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:16:40] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:16:40] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:16:48] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.67s
+[2025-11-28 11:16:48] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:16:48] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:16:48] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:16:48] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:16:53] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.885s)
+[2025-11-28 11:16:53] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.89s
+[2025-11-28 11:16:53] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:16:53] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:16:56] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:16:56] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:16:56] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:16:56] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:16:57] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:16:57] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:16:57] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:16:57] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:16:57] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:16:58] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:16:58] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:16:58] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:16:58] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:16:58] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:16:58] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:16:59] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:16:59] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:16:59] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:16:59] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:17:06] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.14s
+[2025-11-28 11:17:06] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:17:06] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:17:06] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:17:06] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:17:10] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.212s)
+[2025-11-28 11:17:10] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.21s
+[2025-11-28 11:17:10] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:17:10] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:24:23] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:24:23] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:24:23] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:24:23] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:24:24] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:24:24] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:24:24] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:24:24] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:24:24] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:24:25] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:24:25] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:24:25] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:24:25] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:24:25] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:24:25] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:24:26] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:24:26] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:24:26] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:24:26] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:24:33] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.30s
+[2025-11-28 11:24:33] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:24:33] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:24:33] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:24:33] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:24:38] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.565s)
+[2025-11-28 11:24:38] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.57s
+[2025-11-28 11:24:38] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:24:38] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:28:34] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 11:28:34] INFO in app: 🔌 Database disconnected
+[2025-11-28 11:28:34] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 11:28:41] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:28:41] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:28:41] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:28:41] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:28:41] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:28:42] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:28:42] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:28:42] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:28:42] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:28:42] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:28:43] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:28:43] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:28:43] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:28:43] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:28:43] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:28:43] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:28:44] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:28:44] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:28:44] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:28:51] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.56s
+[2025-11-28 11:28:51] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:28:51] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:28:51] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:28:51] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:28:56] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.717s)
+[2025-11-28 11:28:56] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.72s
+[2025-11-28 11:28:56] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:28:56] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:29:01] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 11:29:01] INFO in app: 🔌 Database disconnected
+[2025-11-28 11:29:01] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 11:31:09] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:31:09] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:31:09] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:31:09] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:31:10] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:31:10] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:31:10] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:31:10] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:31:10] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:31:11] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:31:11] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:31:11] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:31:11] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:31:11] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:31:11] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:31:12] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:31:12] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:31:12] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:31:12] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:31:20] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.71s
+[2025-11-28 11:31:20] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:31:20] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:31:20] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:31:20] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:31:24] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.595s)
+[2025-11-28 11:31:24] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.60s
+[2025-11-28 11:31:24] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:31:24] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:35:04] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-11-28 11:36:40] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 11:36:40] INFO in app: 🔌 Database disconnected
+[2025-11-28 11:36:40] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 11:36:44] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:36:44] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:36:44] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:36:44] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:36:44] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:36:44] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:36:45] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:36:45] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:36:45] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:36:45] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:36:45] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:36:46] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:36:46] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:36:46] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:36:46] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:36:46] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:36:47] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:36:47] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:36:47] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:36:54] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.59s
+[2025-11-28 11:36:54] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:36:54] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:36:54] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:36:54] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:36:59] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.896s)
+[2025-11-28 11:36:59] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.90s
+[2025-11-28 11:36:59] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:36:59] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:37:34] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-11-28 11:39:36] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 11:39:36] INFO in app: 🔌 Database disconnected
+[2025-11-28 11:39:36] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 11:39:40] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:39:40] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:39:40] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:39:40] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:39:41] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:39:41] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:39:41] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:39:41] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:39:41] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:39:42] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:39:42] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:39:42] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:39:42] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:39:42] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:39:42] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:39:43] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:39:43] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:39:43] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:39:43] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:39:50] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.33s
+[2025-11-28 11:39:50] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:39:50] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:39:50] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:39:50] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:39:55] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.970s)
+[2025-11-28 11:39:55] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.97s
+[2025-11-28 11:39:55] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:39:55] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:41:46] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-11-28 11:44:40] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 11:44:40] INFO in app: 🔌 Database disconnected
+[2025-11-28 11:44:40] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 11:44:45] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:44:45] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:44:45] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:44:45] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:44:45] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:44:45] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:44:45] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:44:45] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:44:46] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:44:46] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:44:46] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:44:46] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:44:46] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:44:47] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:44:47] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:44:47] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:44:47] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:44:47] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:44:47] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:44:54] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.19s
+[2025-11-28 11:44:54] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:44:54] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:44:54] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:44:54] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:44:59] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.701s)
+[2025-11-28 11:44:59] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.70s
+[2025-11-28 11:44:59] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:44:59] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:45:52] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-11-28 11:49:41] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 11:49:41] INFO in app: 🔌 Database disconnected
+[2025-11-28 11:49:41] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 11:49:45] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:49:45] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:49:45] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:49:45] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:49:46] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:49:46] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:49:46] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:49:46] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:49:46] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:49:47] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:49:47] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:49:47] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:49:47] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:49:47] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:49:47] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:49:48] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:49:48] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:49:48] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:49:48] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:49:55] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.16s
+[2025-11-28 11:49:55] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:49:55] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:49:55] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:49:55] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:49:59] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.441s)
+[2025-11-28 11:49:59] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.44s
+[2025-11-28 11:49:59] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:49:59] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:50:03] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:50:03] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:50:03] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:50:03] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:50:03] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:50:04] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:50:04] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:50:04] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:50:04] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:50:04] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:50:04] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:50:05] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:50:05] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:50:05] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:50:05] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:50:05] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:50:06] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:50:06] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:50:06] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:50:12] INFO in app.main: ✅ Embedding model pre-loaded successfully in 6.10s
+[2025-11-28 11:50:12] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:50:12] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:50:12] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:50:12] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:50:16] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.502s)
+[2025-11-28 11:50:16] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.50s
+[2025-11-28 11:50:16] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:50:16] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:50:20] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:50:20] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:50:20] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:50:20] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:50:20] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:50:20] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:50:20] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:50:21] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:50:21] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:50:21] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:50:21] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:50:21] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:50:22] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:50:22] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:50:22] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:50:22] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:50:22] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:50:22] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:50:22] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:50:29] INFO in app.main: ✅ Embedding model pre-loaded successfully in 6.63s
+[2025-11-28 11:50:29] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:50:29] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:50:29] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:50:29] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:50:34] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 5.118s)
+[2025-11-28 11:50:34] INFO in app.main: ✅ Retrievers pre-loaded successfully in 5.12s
+[2025-11-28 11:50:34] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:50:34] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:50:38] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:50:38] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:50:38] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:50:38] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:50:38] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:50:38] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:50:38] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:50:39] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:50:39] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:50:39] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:50:39] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:50:39] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:50:40] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:50:40] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:50:40] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:50:40] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:50:40] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:50:40] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:50:40] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:50:47] INFO in app.main: ✅ Embedding model pre-loaded successfully in 6.78s
+[2025-11-28 11:50:47] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:50:47] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:50:47] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:50:47] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:50:52] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.615s)
+[2025-11-28 11:50:52] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.62s
+[2025-11-28 11:50:52] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:50:52] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:50:55] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:50:55] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:50:55] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:50:55] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:50:56] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:50:56] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:50:56] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:50:56] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:50:56] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:50:56] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:50:57] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:50:57] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:50:57] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:50:57] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:50:57] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:50:58] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:50:58] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:50:58] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:50:58] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:51:04] INFO in app.main: ✅ Embedding model pre-loaded successfully in 6.63s
+[2025-11-28 11:51:04] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:51:04] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:51:04] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:51:04] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:51:09] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.696s)
+[2025-11-28 11:51:09] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.70s
+[2025-11-28 11:51:09] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:51:09] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:52:42] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-11-28 11:54:53] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 11:54:53] INFO in app: 🔌 Database disconnected
+[2025-11-28 11:54:53] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 11:54:57] INFO in app.main: 🚀 Starting application...
+[2025-11-28 11:54:57] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 11:54:57] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 11:54:57] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 11:54:57] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 11:54:58] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 11:54:58] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 11:54:58] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 11:54:58] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 11:54:58] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 11:54:59] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 11:54:59] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 11:54:59] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 11:54:59] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 11:54:59] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 11:55:00] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 11:55:00] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 11:55:00] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 11:55:00] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 11:55:07] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.38s
+[2025-11-28 11:55:07] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 11:55:07] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 11:55:07] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 11:55:07] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 11:55:12] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.737s)
+[2025-11-28 11:55:12] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.74s
+[2025-11-28 11:55:12] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 11:55:12] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 11:56:20] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-11-28 13:14:51] INFO in app.core.agents.agents: ✅ Using cached ChildParentRetriever instance (0.000s)
+[2025-11-28 13:15:33] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 13:15:33] INFO in app: 🔌 Database disconnected
+[2025-11-28 13:15:33] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 13:15:37] INFO in app.main: 🚀 Starting application...
+[2025-11-28 13:15:37] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 13:15:37] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 13:15:37] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 13:15:37] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 13:15:38] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 13:15:38] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 13:15:38] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 13:15:38] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 13:15:38] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 13:15:39] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 13:15:39] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 13:15:39] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 13:15:39] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 13:15:39] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 13:15:39] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 13:15:40] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 13:15:40] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 13:15:40] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 13:15:47] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.23s
+[2025-11-28 13:15:47] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 13:15:47] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 13:15:47] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 13:15:47] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 13:15:52] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.939s)
+[2025-11-28 13:15:52] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.94s
+[2025-11-28 13:15:52] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 13:15:52] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 14:41:01] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 14:41:01] INFO in app: 🔌 Database disconnected
+[2025-11-28 14:41:01] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 14:41:05] INFO in app.main: 🚀 Starting application...
+[2025-11-28 14:41:05] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 14:41:05] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 14:41:05] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 14:41:05] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 14:41:06] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 14:41:06] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 14:41:06] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 14:41:06] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 14:41:06] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 14:41:07] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 14:41:07] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 14:41:07] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 14:41:07] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 14:41:07] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 14:41:07] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 14:41:08] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 14:41:08] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 14:41:08] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 14:41:16] INFO in app.main: ✅ Embedding model pre-loaded successfully in 8.82s
+[2025-11-28 14:41:16] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 14:41:16] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 14:41:16] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 14:41:16] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 14:41:21] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.082s)
+[2025-11-28 14:41:21] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.08s
+[2025-11-28 14:41:21] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 14:41:21] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 14:41:24] INFO in app.main: 🚀 Starting application...
+[2025-11-28 14:41:24] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 14:41:24] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 14:41:24] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 14:41:24] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 14:41:25] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 14:41:25] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 14:41:25] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 14:41:25] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 14:41:25] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 14:41:26] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 14:41:26] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 14:41:26] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 14:41:26] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 14:41:26] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 14:41:26] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 14:41:27] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 14:41:27] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 14:41:27] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 14:41:34] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.31s
+[2025-11-28 14:41:34] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 14:41:34] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 14:41:34] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 14:41:34] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 14:41:39] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.883s)
+[2025-11-28 14:41:39] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.88s
+[2025-11-28 14:41:39] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 14:41:39] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 14:41:42] INFO in app.main: 🚀 Starting application...
+[2025-11-28 14:41:42] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 14:41:42] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 14:41:42] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 14:41:43] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 14:41:43] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 14:41:43] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 14:41:43] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 14:41:43] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 14:41:43] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 14:41:44] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 14:41:44] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 14:41:44] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 14:41:44] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 14:41:44] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 14:41:45] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 14:41:45] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 14:41:45] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 14:41:45] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 14:41:51] INFO in app.main: ✅ Embedding model pre-loaded successfully in 5.94s
+[2025-11-28 14:41:51] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 14:41:51] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 14:41:51] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 14:41:51] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 14:41:55] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.694s)
+[2025-11-28 14:41:55] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.69s
+[2025-11-28 14:41:55] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 14:41:55] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 14:43:53] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 14:43:53] INFO in app: 🔌 Database disconnected
+[2025-11-28 14:43:53] INFO in app.main: ✅ Shutdown complete
+[2025-11-28 14:43:57] INFO in app.main: 🚀 Starting application...
+[2025-11-28 14:43:57] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 14:43:57] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 14:43:57] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 14:43:58] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 14:43:58] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 14:43:58] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 14:43:58] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 14:43:58] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 14:43:59] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 14:43:59] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 14:43:59] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 14:43:59] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 14:43:59] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 14:44:00] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 14:44:00] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 14:44:00] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 14:44:00] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 14:44:00] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 14:44:07] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.23s
+[2025-11-28 14:44:07] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 14:44:07] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 14:44:07] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 14:44:07] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 14:44:12] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.806s)
+[2025-11-28 14:44:12] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.81s
+[2025-11-28 14:44:12] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 14:44:12] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 14:44:15] INFO in app.main: 🚀 Starting application...
+[2025-11-28 14:44:15] INFO in app.main: 📊 Connecting to database...
+[2025-11-28 14:44:15] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-28 14:44:15] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-28 14:44:16] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-28 14:44:16] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-28 14:44:16] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-28 14:44:16] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-28 14:44:17] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-28 14:44:17] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-28 14:44:17] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-28 14:44:17] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-28 14:44:18] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-28 14:44:18] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-28 14:44:18] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-28 14:44:18] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-28 14:44:18] INFO in app.core.src.prompts:   ✅ Loaded: price_prompt_test
+[2025-11-28 14:44:18] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 13/13 loaded
+[2025-11-28 14:44:18] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-28 14:44:25] INFO in app.main: ✅ Embedding model pre-loaded successfully in 6.41s
+[2025-11-28 14:44:25] INFO in app.main:    Model: BAAI/bge-m3
+[2025-11-28 14:44:25] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-28 14:44:25] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-28 14:44:25] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-28 14:44:29] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 4.437s)
+[2025-11-28 14:44:29] INFO in app.main: ✅ Retrievers pre-loaded successfully in 4.44s
+[2025-11-28 14:44:29] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-28 14:44:29] INFO in app.main: ✅ Application startup complete!
+[2025-11-28 14:45:33] INFO in app.main: 🛑 Shutting down application...
+[2025-11-28 14:45:33] INFO in app: 🔌 Database disconnected
+[2025-11-28 14:45:33] INFO in app.main: ✅ Shutdown complete

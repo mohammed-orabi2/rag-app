@@ -1,0 +1,61 @@
+[2025-11-06 09:54:56] INFO in app.main: 🚀 Starting application...
+[2025-11-06 09:54:56] INFO in app.main: 📊 Connecting to database...
+[2025-11-06 09:54:56] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-06 09:54:56] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-06 09:54:56] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-06 09:54:56] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-06 09:54:57] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-06 09:54:57] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-06 09:54:57] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-06 09:54:57] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-06 09:54:57] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-06 09:54:58] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-06 09:54:58] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-06 09:54:58] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-06 09:54:58] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-06 09:54:58] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-06 09:54:58] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 12/12 loaded
+[2025-11-06 09:54:58] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-06 09:55:06] INFO in app.main: ✅ Embedding model pre-loaded successfully in 7.42s
+[2025-11-06 09:55:06] INFO in app.main:    Model: intfloat/e5-large-v2
+[2025-11-06 09:55:06] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-06 09:55:06] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-06 09:55:06] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-06 09:55:08] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 2.376s)
+[2025-11-06 09:55:08] INFO in app.main: ✅ Retrievers pre-loaded successfully in 2.38s
+[2025-11-06 09:55:08] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-06 09:55:08] INFO in app.main: ✅ Application startup complete!
+[2025-11-06 09:55:10] INFO in app.main: 🛑 Shutting down application...
+[2025-11-06 09:55:10] INFO in app: 🔌 Database disconnected
+[2025-11-06 09:55:10] INFO in app.main: ✅ Shutdown complete
+[2025-11-06 09:55:14] INFO in app.main: 🚀 Starting application...
+[2025-11-06 09:55:14] INFO in app.main: 📊 Connecting to database...
+[2025-11-06 09:55:14] INFO in app: Connected to MongoDB: counselling_bot
+[2025-11-06 09:55:14] INFO in app.core.src.prompts: 🔥 Pre-loading prompts from LangSmith...
+[2025-11-06 09:55:15] INFO in app.core.src.prompts:   ✅ Loaded: rewritten-query-prompt
+[2025-11-06 09:55:15] INFO in app.core.src.prompts:   ✅ Loaded: query-classifier-prompt
+[2025-11-06 09:55:15] INFO in app.core.src.prompts:   ✅ Loaded: general-question-prompt
+[2025-11-06 09:55:15] INFO in app.core.src.prompts:   ✅ Loaded: follow-up-questions-prompt
+[2025-11-06 09:55:15] INFO in app.core.src.prompts:   ✅ Loaded: rules-agent-prompt
+[2025-11-06 09:55:16] INFO in app.core.src.prompts:   ✅ Loaded: program-extraction-prompt
+[2025-11-06 09:55:16] INFO in app.core.src.prompts:   ✅ Loaded: retriever-selection-prompt
+[2025-11-06 09:55:16] INFO in app.core.src.prompts:   ✅ Loaded: price_campus_prompt
+[2025-11-06 09:55:16] INFO in app.core.src.prompts:   ✅ Loaded: new_system_prompt
+[2025-11-06 09:55:16] INFO in app.core.src.prompts:   ✅ Loaded: relevant_docs_ids
+[2025-11-06 09:55:16] INFO in app.core.src.prompts:   ✅ Loaded: title-update-prompt
+[2025-11-06 09:55:17] INFO in app.core.src.prompts:   ✅ Loaded: ai-summarize-prompt
+[2025-11-06 09:55:17] INFO in app.core.src.prompts: ✅ Prompt pre-loading complete: 12/12 loaded
+[2025-11-06 09:55:17] INFO in app.main: 🔥 Pre-loading embedding model at startup...
+[2025-11-06 09:55:21] INFO in app.main: ✅ Embedding model pre-loaded successfully in 4.36s
+[2025-11-06 09:55:21] INFO in app.main:    Model: intfloat/e5-large-v2
+[2025-11-06 09:55:21] INFO in app.main:    Device: CPU (shared across N workers)
+[2025-11-06 09:55:21] INFO in app.main: 🔥 Pre-loading retrievers and vectorstores...
+[2025-11-06 09:55:21] INFO in app.core.agents.agents: 🔨 Creating new ChildParentRetriever instance (first time)
+[2025-11-06 09:55:24] INFO in app.core.agents.agents: ✅ ChildParentRetriever cached (took 3.096s)
+[2025-11-06 09:55:24] INFO in app.main: ✅ Retrievers pre-loaded successfully in 3.10s
+[2025-11-06 09:55:24] INFO in app.main:    All vectorstores are now cached and ready
+[2025-11-06 09:55:24] INFO in app.main: ✅ Application startup complete!
+[2025-11-06 14:36:04] INFO in app.main: 🛑 Shutting down application...
+[2025-11-06 14:36:10] INFO in app: 🔌 Database disconnected
+[2025-11-06 14:36:10] INFO in app.main: ✅ Shutdown complete
+[2025-11-06 14:36:15] ERROR in app: Failed to connect to MongoDB: localhost:27017: [Errno 61] Connection refused (configured timeouts: socketTimeoutMS: 5000.0ms, connectTimeoutMS: 5000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 690c963aee3bb4d7e2dff13b, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 61] Connection refused (configured timeouts: socketTimeoutMS: 5000.0ms, connectTimeoutMS: 5000.0ms)')>]>

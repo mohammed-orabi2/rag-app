@@ -1,0 +1,55 @@
+services:
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: chromadb
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../data/vector_store/combined_collections:/data
+    environment:
+      - IS_PERSISTENT=TRUE
+    networks:
+      - backend
+    restart: always
+
+  mongodb:
+    image: mongo:7-jammy
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb-data:/data/db
+    networks:
+      - backend
+    restart: always
+    command: ["mongod", "--quiet"]
+      
+  app:
+    build:
+      context: ..
+      dockerfile: Docker/Dockerfile
+    image: counselling-bot:latest
+    container_name: counselling-bot
+    ports:
+      - "8001:8001"
+    depends_on:
+      - mongodb
+      - chromadb
+    env_file:
+      - ../.env
+    environment:
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - WORKERS=8  # Number of workers (embeddings shared via gunicorn preload)
+    volumes:
+      - hf-models:/app/models
+    networks:
+      - backend
+    restart: always
+
+networks:
+  backend:
+
+volumes:
+  hf-models:
+  mongodb-data:
