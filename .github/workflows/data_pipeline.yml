@@ -15,7 +15,6 @@ permissions:
   contents: write
   pull-requests: write
   actions: read
-  metadata: read
 
 jobs:
   run-full-pipeline:
