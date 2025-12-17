@@ -40,7 +40,6 @@ jobs:
           python data/operations/full_data_pipeline.py
 
       - name: Commit and push changes
-        id: commit_changes
         run: |
           git config --local user.email "mohamed.orabi@studentgator.com"
           git config --local user.name "mohammed-orabi2"
@@ -53,7 +52,11 @@ jobs:
             echo "No changes detected"
           else
             git commit -m "Update VDB and JSON files - $(date -u +"%Y-%m-%d %H:%M UTC")"
-            git push origin ${{ github.ref_name }}
+
+            git fetch origin
+            git rebase origin/main
+
+            git push origin main
             echo "has_changes=true" >> $GITHUB_ENV
           fi
 
