@@ -147,7 +147,7 @@ def generate_program_text(program: Dict[str, Any]) -> str:
 
 def load_data(data_file) -> None:
     """Load program data from JSON file."""
-    with open(data_file, "r", encoding="utf-8") as f:
+    with open(data_file, "r") as f:
         programs = json.load(f)
     print(f"Loaded {len(programs)} programs")
     return programs
@@ -479,7 +479,7 @@ def create_document(
 
 
 def program_md_generator(
-    input_file: str = "data/programs/new_programs.json",
+    input_file: str = "data/programs/programs.json",
     output_file: str = "data/chroma_documents/chroma_documents_programs.json",
     child_parent_split: bool = False,
 ):
