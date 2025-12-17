@@ -33,7 +33,8 @@ jobs:
 
       - name: Activate venv and run full data pipeline
         env:
-          SECRET: ${{secrets.SECRET}}
+          API_SECRET: ${{ secrets.API_SECRET }}
+          BASE_URL: ${{ secrets.BASE_URL }}
         run: |
           source $HOME/sg/bin/activate
           python data/operations/full_data_pipeline.py
