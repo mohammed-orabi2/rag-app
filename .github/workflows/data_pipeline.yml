@@ -1,0 +1,72 @@
+name: Full Data Pipeline
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      target_branch:
+        description: 'Target branch for pull request'
+        required: false
+        default: 'data-updates-test'
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: read
+  metadata: read
+
+jobs:
+  run-full-pipeline:
+    runs-on: self-hosted
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.PAT_TOKEN }}
+        fetch-depth: 0
+        persist-credentials: true
+    
+    - name: Activate venv and run full data pipeline
+      run: |
+        source /home/omar_magdy/sg/bin/activate
+        python data/operations/full_data_pipeline.py
+    
+    - name: Push VDB and JSON to current branch
+      run: |
+        git config --local user.email "mohamed.orabi@studentgator.com"
+        git config --local user.name "mohammed-orabi2"
+        
+        git add data/vector_store/
+        git add data/chroma_documents/*.json
+        
+        if ! git diff --staged --quiet; then
+          git commit -m "Update VDB and JSON files - $(date -u +"%Y-%m-%d %H:%M UTC")"
+          git push origin ${{ github.ref_name }}
+          echo "has_changes=true" >> $GITHUB_ENV
+        else
+          echo "has_changes=false" >> $GITHUB_ENV
+        fi
+    
+    - name: Create Pull Request and Merge
+      if: env.has_changes == 'true'
+      run: |
+        TARGET_BRANCH="${{ github.event.inputs.target_branch || 'main' }}"
+        
+        gh pr create \
+          --title "Data Pipeline Update - VDB and JSON" \
+          --body "Automated update from full data pipeline" \
+          --base $TARGET_BRANCH \
+          --head ${{ github.ref_name }}
+        
+        sleep 5
+        
+        PR_NUMBER=$(gh pr list --head ${{ github.ref_name }} --base $TARGET_BRANCH --json number --jq '.[0].number')
+        
+        if [ "$PR_NUMBER" != "null" ]; then
+          gh pr merge $PR_NUMBER --squash --delete-branch=false
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
