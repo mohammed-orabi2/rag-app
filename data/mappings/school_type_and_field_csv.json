@@ -1,0 +1,566 @@
+{
+    "ICART École du management de la culture et du marché de l’art": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "3A (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "3W Academy (EDH Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Computer Science %26 IT"
+    },
+    "AIVANCITY": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "Albert School": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Engineering %26 Technology"
+    },
+    "Atelier Chardon Savard (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "Atelier De Sèvres (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "Audencia": {
+        "school_type": "Grande Ecole ",
+        "field": "Not Specified"
+    },
+    "BELLECOUR (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "BESIGN School": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "BRASSART École des Métiers de la Création": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "Brest Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "Burgundy School of Business": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "CEFAM (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "CESI": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "CIFACOM (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "CLCF (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "Clermont School of Business": {
+        "school_type": "Grande Ecole ",
+        "field": "Not Specified"
+    },
+    "Cours Florent (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "CREAD École d'Architecte d'Intérieur": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "CY Tech": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "Digital Campus (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Marketing %26 communication"
+    },
+    "EAC (Groupe AD Éducation)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "European Business School (GA ÉDUCATION)": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "ECAM LaSalle": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "ECE (OMNES Group)": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "École 89 (GA ÉDUCATION)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "École Bleue (EDH Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "École de Condé (Groupe AD Éducation)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "École Ferrières": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "École HEAD": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "École Supérieure de Design (Yschools)": {
+        "school_type": "nan",
+        "field": "Not Specified"
+    },
+    "École Supérieure de Tourisme (Yschools)": {
+        "school_type": "nan",
+        "field": "Not Specified"
+    },
+    "École Supérieure du Parfum & de la Cosmétique (Groupe AD Éducation)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "EDC Paris Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "EFAP École des nouveau métiers de la communication": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "EFJ École du nouveau journalisme": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "EFREI": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "ELIJE (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "EM Normandie Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "EM Strasbourg Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "EMLV Business School (Léonard de Vinci)": {
+        "school_type": "Grande Ecole ",
+        "field": "Not Specified"
+    },
+    "emlyon business school": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "EPITA": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "EPSI (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Computer Science %26 IT"
+    },
+    "ESAIL (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "ESAIP": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "ESAM (IGENSIA Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "ESARC (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "ESCE International Business School (OMNES Group)": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "ESD École Supérieure du Digital (Groupe AD Éducation)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "ESDES Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "ÉSEC École de Cinéma & Audiovisuel": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "ESG ACT (GALILEO Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Aix-en-Provence (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "ESG Bordeaux (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG FINANCE (GALILEO Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Immobilier (GALILEO Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG LUXE (GALILEO Luxe)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Marketing %26 communication"
+    },
+    "ESG Lyon (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Montpellier (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Nantes (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Rennes (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG RH (GALILEO Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Rouen (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG SPORT (GALILEO Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Strasbourg (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Toulouse (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG TOURISME (GALILEO Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESG Tours (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESGCI (GALILEO Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESILV": {
+        "school_type": "Grande Ecole ",
+        "field": "Not Specified"
+    },
+    "ESMD (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "ESP École supérieure de Publicité (Groupe AD Éducation)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "ESSCA Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "ESTP": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "EXCELIA Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "FERRANDI Paris": {
+        "school_type": "Grande Ecole ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "FFOLLOZZ (IGENSIA Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "HEIP (OMNES Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "HETIC (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Computer Science %26 IT"
+    },
+    "ICD (IGENSIA Group)": {
+        "school_type": "Grande Ecole ",
+        "field": "Not Specified"
+    },
+    "ICN Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Not Specified"
+    },
+    "IDRAC (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "IEFT (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "IESA (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "IÉSEG School of Management": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "IET (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "IFA Paris (EDH Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "IFAG (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "IGEFI (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "IGS-RH (IGENSIA Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "IHEDREA (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "IIM La grande école du digital": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Computer Science %26 IT"
+    },
+    "ILERI (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "IMIS (IGENSIA Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "IMSI (IGENSIA Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "IMT Atlantique": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "IMT Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "INSEEC (OMNES Group)": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "Institut Culinaire de France (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "Institut National de Gemmologie (Groupe AD Éducation)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "International University of Monaco (OMNES Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "IPAG Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "IPI (IGENSIA Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "IPSA": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "ISC Paris Grande École de Commerce": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "ISCPA (IGENSIA Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "ISEP": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "ISTEC Business School Paris": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "ISTITUTO MARANGONI (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "ITM Paris (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "JUNIA HEI": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "JUNIA ISA": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "JUNIA ISEN": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "KEDGE Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "La Web School Factory": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Computer Science %26 IT"
+    },
+    "LISAA (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "MBA ESG (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "Merkure Business School (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "Montpellier Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "MoPA École Internationale du Cinéma d'Animation": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "Narratiiv (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Marketing %26 communication"
+    },
+    "NEOMA Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "Paris School of Business": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "Paris School Of Technology & Business (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "PENNINGHEN (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "Rennes School of Business": {
+        "school_type": "Grande Ecole ",
+        "field": "Not Specified"
+    },
+    "RUBIKA": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "SKEMA Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "South Champagne Business School (Yschools)": {
+        "school_type": "nan",
+        "field": "Not Specified"
+    },
+    "STRATE (Galileo Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Arts, Design %26 Architecture"
+    },
+    "Sup Career (OMNES Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "Sup de Com (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "Sup de Création (OMNES Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "Sup de Luxe": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Business %26 Management"
+    },
+    "Sup de Pub (OMNES Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Marketing %26 communication"
+    },
+    "SupBiotech": {
+        "school_type": "Grande Ecole ",
+        "field": "Engineering %26 Technology"
+    },
+    "The American Business School of Paris (IGENSIA Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Not Specified"
+    },
+    "Toulouse Business School": {
+        "school_type": "Grande Ecole ",
+        "field": "Business %26 Management"
+    },
+    "WIS (FIGS Group)": {
+        "school_type": "Ecole Spécialisée  ",
+        "field": "Engineering %26 Technology"
+    }
+}

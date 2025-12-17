@@ -1,0 +1,888 @@
+[
+  {
+    "program": "MBA Spécialisé Ingénierie Culturelle & Management",
+    "school": "ICART - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA International Art Market",
+    "school": "ICART - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Music Business Management",
+    "school": "ICART - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Strategic Communication & Marketing",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication & Management Événementiel",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Création & Stratégies Publicitaires",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication Publique & Influence",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication & Relations Médias",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Brand Content, Stratégie Éditoriale & Nouveaux Médias",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication & Production Audiovisuelle",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Sport Business & Communication",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication & Santé",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication RSE & Développement Durable",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication & Marketing des Vins et Spiritueux",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication & Gastronomie",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Communication in Fashion Industries",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Luxury Communication & Strategies",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Digital Marketing & Business",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Digital Marketing & Business Health",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Digital Marketing & Business Beauty & Cosmetics",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Digital Marketing & Business Luxe",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Direction Administrative et Financière DAF",
+    "school": "IGEFI - FIGS Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Ingénierie d'affaires",
+    "school": "IDRAC - FIGS Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Marketing, e-Business & IA",
+    "school": "IDRAC - FIGS Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Achats & Supply Chain Responsables",
+    "school": "IDRAC - FIGS Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Digital Business et Transformation des Organisations",
+    "school": "IDRAC - FIGS Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA International Tourism Manager",
+    "school": "IEFT - FIGS Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Manager de la Stratégie Touristique et Commerciale",
+    "school": "IEFT - FIGS Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA in Entrepreneurship and International Business Development",
+    "school": "The American Business School - IGENSIA Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Gestion de Patrimoine",
+    "school": "ESG Bordeaux - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management et Gestion des Entreprises",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Business Unit manager",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Manager Marketing Stratégique et Opérationnel",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Expert en Stratégie Digitale",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Gestion des Patrimoines",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Finance",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Audit et contrôle de gestion",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management du Sport",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management Hôtelier",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Gestion des Ressources Humaines",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Droit des affaires et juriste d'entreprise",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Supply Chain Management",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management des Achats",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA International trade",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Innovation Tech",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Production Audiovisuelle",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Mode et Luxe",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management de Projets, Innovation et Technologie",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Finance et e-Contrôle des risques",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Expert en Cybersécurité",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management et Marketing du Luxe",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA in Arts & Cultural Management",
+    "school": "IESA arts & Culture - GALILEO Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA in Performing arts management & Entertainment",
+    "school": "IESA arts & Culture - GALILEO Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA in Contemporary Art: Sales, Display and Collecting",
+    "school": "IESA arts & Culture - GALILEO Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Luxury Brand Marketing & International Management",
+    "school": "Sup De Luxe - Planete Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "Cycle Ingénieur",
+    "school": "JUNIA: HEI",
+    "field": "engineering",
+    "school_type": "Grande Ecole",
+    "duration": 2,
+    "classified_as": "Cycle d'Ingénieur",
+    "reason": "Cycle Ingénieur but duration=2 (expected 3)"
+  },
+  {
+    "program": "Cycle Ingénieur",
+    "school": "JUNIA: ISEN",
+    "field": "engineering",
+    "school_type": "Grande Ecole",
+    "duration": 2,
+    "classified_as": "Cycle d'Ingénieur",
+    "reason": "Cycle Ingénieur but duration=2 (expected 3)"
+  },
+  {
+    "program": "MBA Ingénierie Culturelle & Management (Double diplôme par ICART)",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA International Art Market (Dual degree by ICART)",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Spécialisé Music Business (Double diplôme par ICART)",
+    "school": "EFAP - EDH Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "Cycle Ingénieur",
+    "school": "JUNIA: ISA",
+    "field": "engineering",
+    "school_type": "Grande Ecole",
+    "duration": 2,
+    "classified_as": "Cycle d'Ingénieur",
+    "reason": "Cycle Ingénieur but duration=2 (expected 3)"
+  },
+  {
+    "program": "MBA International Strategy",
+    "school": "ESG Bordeaux - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management des achats",
+    "school": "ESG Bordeaux - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management de la production musicale et développement d'artiste",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Expert en Communication et Événementiel",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "Cycle pré-ingénieur intégré",
+    "school": "CY Tech",
+    "field": "do not send applications",
+    "school_type": "Grande Ecole",
+    "duration": 2,
+    "classified_as": "Cycle prépa",
+    "reason": "Cycle Ingénieur but duration=2 (expected 3)"
+  },
+  {
+    "program": "Cycle Ingénieur Grande École",
+    "school": "CY Tech",
+    "field": "do not send applications",
+    "school_type": "Grande Ecole",
+    "duration": 2,
+    "classified_as": "Cycle d'Ingénieur",
+    "reason": "Cycle Ingénieur but duration=2 (expected 3)"
+  },
+  {
+    "program": "Cycle pré-ingénieur intégré",
+    "school": "ESILV - Pôle Léonard de Vinci",
+    "field": "engineering",
+    "school_type": "Grande Ecole",
+    "duration": 2,
+    "classified_as": "Cycle prépa",
+    "reason": "Cycle Ingénieur but duration=2 (expected 3)"
+  },
+  {
+    "program": "MBA Fashion House Creative Direction",
+    "school": "IFA Paris - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Sustainable Fashion – Design Major",
+    "school": "IFA Paris - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Fashion Entrepreneurship – Design Major",
+    "school": "IFA Paris - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Fashion Image & Media Production",
+    "school": "IFA Paris - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Fashion and Luxury Marketing",
+    "school": "IFA Paris - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Sustainable Fashion – Business Major",
+    "school": "IFA Paris - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Fashion Entrepreneurship – Tech Major",
+    "school": "IFA Paris - EDH Group",
+    "field": "arts schools",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Finance & Data Performance",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Ingénieur d'Affaires",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Logistique et Management de la Supply Chain",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Droit des Affaires",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management et Marketing du luxe",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Finance",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Data Science",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Trading - Finance de marché",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Gestion de patrimoine et Banque - Assurance",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Droit des Affaires Internationales - Spécialisation Management et Finance",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Droit des Affaires Internationales - Spécialisation Conformité et Gestion des Risques",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management du sport",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Médias, communication et digital",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Événementiel sportif",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Marketing sportif et digital",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management Commercial & sponsoring sportif",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Finance & Data Performance",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Ingénieur d'Affaires",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Logistique et Management de la Supply Chain",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Droit des Affaires",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management et Marketing du luxe",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Finance",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Data Science",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Trading - Finance de marché",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Gestion de patrimoine et Banque - Assurance",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Droit des Affaires Internationales - Spécialisation Management et Finance",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Droit des Affaires Internationales - Spécialisation Conformité et Gestion des Risques",
+    "school": "ESLSCA Business School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management du sport",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Médias, communication et digital",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Événementiel sportif",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Marketing sportif et digital",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Management Commercial & sponsoring sportif",
+    "school": "Sports Management School - Planeta Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Big data et Intelligence Artificielle",
+    "school": "MBA ESG - GALILEO Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "MBA Luxury Marketing & Innovation",
+    "school": "IDRAC - FIGS Group",
+    "field": "business school",
+    "school_type": "Ecole Spécialisée",
+    "classified_as": "Mastère",
+    "reason": "MBA in name but school_type != Grande Ecole"
+  },
+  {
+    "program": "Master in Business Administration – MBA",
+    "school": "Universidad Europeaa",
+    "field": "",
+    "school_type": null,
+    "classified_as": null,
+    "reason": "MBA in name but school_type != Grande Ecole"
+  }
+]

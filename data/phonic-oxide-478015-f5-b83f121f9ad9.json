@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "phonic-oxide-478015-f5",
+  "private_key_id": "b83f121f9ad979aa63d6c37bf767ed7e311515a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDBaUtO0Rlfob4O\nowQvdI6RTN4ZXXAohtIdcbaVy94suJy4cVCGy2BKYikGA/l/i54IIxGl85XFfs5j\nl5PMe5qWl/7eXg7Aq4xJM3hqr9O3bGlME9org3eigMBYfWE2YGBQDgrdQJA3j6Tj\nQ7CZtGD0bxB/EFstlZOtnDczQlRmJqBwUC6lQgj9Oh9v8PRYIVjmcq0y1J/Mn1Hh\nOuZT2HX1RU7I/N9sH+OYkeynnxOuFLnjI2znajrqORPBXsxpw2ht+YJBbRVRuReR\nqgk8+FaSyhIHRVL1SdWQzPY9mYtM5wPaRCHEjtiSIHNknBFc99ypC4JokFHfl31r\nQeLWrgwxAgMBAAECggEACnCWDYuQ3I4c9apL9AnNFj+5b1IRV0arucYlDmHiPLS8\nVOJc7+GzcWBqCXaWdZGCNrs53STQTUhCeLK6WhvD5OQQcE1Qa4r2+A6MremOuoRi\nDKa3rIicoQtlFoGyCR7bpAaWBIpTHoSk6FWDh1BquVbzY4BtA4Fi5sibXCt05cyQ\ntO1rBbEmLdtLUgomTy5F2mG7OsqLWVRg7E706c7M48B3sOBoU0DB+rd6Ddq2oEdV\nzM51tkQKAaRq2Xp2Aw/a3lzWvw5cXbpwvjpyYZTTKurOL4FYE4f9XMRPGGLx00pl\nICLIf/4rh5LjRnoC5nMN7ygIGGdNWjDHOLeBVOJBbwKBgQD/hIy+lfkt9Zv4rtAS\nXqOwd/wQ30UbFbIrFGPARS+soAWMF114NCBi+swpMdkO5MFZtG6hjV6nLcUiaOeG\nRHav5O7aL4PQYL5nTWNkakB1GhFUarCKikQKM2ImWfGHeXvv/29UkBQWilVp8TeT\nrjCfZdwtbp3P210f84Q6omzrQwKBgQDBxr0Jb0SF2lFSCsz7yS36l/XAlLUs8SEq\nXmqU1S8fVoacyNhzSuFFrMF5Z3Ypnz8t8vv3aD9M1szYyMtB1pLQVBb8v15LDMhJ\nYlS2He3r1rqdYriilDHo+xf2Fc3ZCiX5ARWGQ88jBXu7ql7/+7VM83A6NIABBaE0\npyAJgp9BewKBgQChc12DJzw1gBW3gq3SjZ4caRQKjSkbPhBADDgjSxQenVYj+LeE\ntlsob5QFC4w9TumlBs9IoQ0H0XHYljSEsEnWRm9tycweJKLqnwmIb2KfG4OLtYYr\nY8YuM912oiptEaPwN5Re+FLZEzt5H4OgetYaQcBnrJdmuRMUl0gbzHnKBQKBgQCd\no5L3kOg6yC9twdGeZ7ya53KKV6/IPuXPNP4Z1BBAu0BJXe8QY/M9nlvK6wsqsx1P\nwSOP0uPkG76MAVWxWuEWz8HfncMU5PIvGOp3OYPrX0VzcfNod4zezx5gGL7ceTAJ\nEQO0tYdWI0jUk7YzI08LqeM7xqf3rN/HGMqsUfJC7wKBgQDXaL9NAiCZRcBNsG6Y\ncWIwUvmilBfYX3Xe5llGTACV/WVQdeoWKCJBxMsbzMRUajnDejbAbthrIug8FSQm\n9slhITWKwCJdkn6Ujqqw7tuXaSkFVNe9pzHfrVe1utmCr72vFt0OnX0XPiSgeL4a\n3MDGbSdoWCunuBblzWPInqFL8g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-api@phonic-oxide-478015-f5.iam.gserviceaccount.com",
+  "client_id": "117108082606117136499",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-api%40phonic-oxide-478015-f5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

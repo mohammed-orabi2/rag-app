@@ -1,0 +1,325 @@
+# EDUCATIONAL PROGRAMS DATABASE
+This dataset contains information about educational programs offered by various institutions in France.
+
+## PROGRAM 1
+**Program Name:** Formation Architecte d’intérieur
+**Program ID:** 1
+**Program Type:** Other
+
+### Institution Information
+**School:** CREAD - EDH Group
+**Ranking:** Unranked
+**Accreditations:** RNCP Level 7 certification, Qualiopi (quality certification), Charte Erasmus+
+
+### Program Details
+**Specializations:** no specializations
+**Languages of Instruction:** French, Mix
+**Campus Locations:** Aix-en-Provence, Bordeaux, Lille, Lyon, Montpellier, Nantes, Rennes, Toulouse
+
+### Financial Information
+**Price Range:** €7900-€10420
+**Average Price:** €8728.75
+
+### Year-by-Year Information
+
+**Year 1:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Aix-en-Provence, Bordeaux, Rennes, Toulouse
+    - Price: €8380.0
+    - Duration: 5.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 2:
+    - Intake: Fall
+    - Campus: Lille, Lyon
+    - Price: €8480.0
+    - Duration: 5.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 3:
+    - Intake: Fall
+    - Campus: Montpellier, Nantes
+    - Price: €7900.0
+    - Duration: 5.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+**Year 2:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Aix-en-Provence, Bordeaux, Toulouse
+    - Price: €8480.0
+    - Duration: 4.0 years
+    - Entry Level: BAC1
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 2:
+    - Intake: Fall
+    - Campus: Lille, Lyon
+    - Price: €8590.0
+    - Duration: 4.0 years
+    - Entry Level: BAC1
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+**Year 3:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Aix-en-Provence, Bordeaux, Lille, Lyon, Toulouse
+    - Price: €8690.0
+    - Duration: 3.0 years
+    - Entry Level: BAC2
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+**Year 4:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Lille, Lyon
+    - Price: €8890.0
+    - Duration: 2.0 years
+    - Entry Level: BAC3
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+**Year 5:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Lyon
+    - Price: €10420.0
+    - Duration: 1.0 years
+    - Entry Level: BAC4
+    - Work-Study Option: Available
+    - Live in EU: Yes
+    - Not Live in EU: No
+    - Intake Language: Mix
+
+================================================================================
+
+## PROGRAM 2
+**Program Name:** Formation Film d'Animation 3D
+**Program ID:** 2
+**Program Type:** Other
+
+### Institution Information
+**School:** MOPA - EDH Group
+**Ranking:** Unranked
+**Accreditations:** RNCP Title level 7 (Expert in design, production and 3D animation), Diploma visé (State-recognized BAC+5), Qualiopi certification
+
+### Program Details
+**Specializations:** Animation 3D, Image
+**Languages of Instruction:** French
+**Campus Locations:** Arles
+
+### Financial Information
+**Price Range:** €8340-€9060
+**Average Price:** €8772.00
+
+### Year-by-Year Information
+
+**Year 1:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Arles
+    - Price: €8340.0
+    - Duration: 5.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+**Year 2:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Arles
+    - Price: €8340.0
+    - Duration: 4.0 years
+    - Entry Level: BAC1
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+**Year 3:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Arles
+    - Price: €9060.0
+    - Duration: 3.0 years
+    - Entry Level: BAC2
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+**Year 4:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Arles
+    - Price: €9060.0
+    - Duration: 2.0 years
+    - Entry Level: BAC3
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 2:
+    - Intake: FALL
+    - Campus: Arles
+    - Work-Study Option: Not_Available
+    - Language: French
+    - Specialization: Animation 3D
+  Option 3:
+    - Intake: FALL
+    - Campus: Arles
+    - Work-Study Option: Not_Available
+    - Language: French
+    - Specialization: Image
+
+**Year 5:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Arles
+    - Price: €9060.0
+    - Duration: 1.0 years
+    - Entry Level: BAC4
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+================================================================================
+
+## PROGRAM 3
+**Program Name:** Formation Infographie Éco-conception
+**Program ID:** 3
+**Program Type:** Other
+
+### Institution Information
+**School:** Brassart - EDH Group
+**Ranking:** 0
+
+### Program Details
+**Specializations:** w
+**Languages of Instruction:** English, French
+**Campus Locations:** Aix-en-Provence, Annecy, Bordeaux, Caen, Grenoble, Lille, Lyon, Montpellier, Nantes, Nice, Paris, Rennes, Strasbourg, Toulouse, Tours
+
+### Financial Information
+**Price Range:** €6300-€8200
+**Average Price:** €6913.75
+
+### Year-by-Year Information
+
+**Year 1:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Paris
+    - Price: €8200.0
+    - Duration: 3.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: English
+  Option 2:
+    - Intake: Fall
+    - Campus: Paris
+    - Price: €7700.0
+    - Duration: 3.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 3:
+    - Intake: Fall
+    - Campus: Annecy, Lyon
+    - Price: €6640.0
+    - Duration: 3.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 4:
+    - Intake: Fall
+    - Campus: Lille, Strasbourg
+    - Price: €6540.0
+    - Duration: 3.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 5:
+    - Intake: Fall
+    - Campus: Aix-en-Provence, Bordeaux, Caen, Montpellier, Nantes, Nice, Rennes, Toulouse, Tours
+    - Price: €6400.0
+    - Duration: 3.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 6:
+    - Intake: Fall
+    - Campus: Grenoble
+    - Price: €6300.0
+    - Duration: 3.0 years
+    - Entry Level: BAC
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+  Option 7:
+    - Intake: FALL
+    - Campus: Aix-en-Provence
+    - Work-Study Option: Available
+    - Language: English
+    - Specialization: w
+
+**Year 2:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Caen, Tours
+    - Price: €6790.0
+    - Duration: 2.0 years
+    - Entry Level: BAC1
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+**Year 3:**
+  Option 1:
+    - Intake: Fall
+    - Campus: Caen, Tours
+    - Price: €6740.0
+    - Duration: 1.0 years
+    - Entry Level: BAC2
+    - Work-Study Option: Not_Available
+    - Live in EU: No
+    - Not Live in EU: No
+    - Intake Language: French
+
+================================================================================
+

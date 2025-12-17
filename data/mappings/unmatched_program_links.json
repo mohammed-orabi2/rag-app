@@ -1,0 +1,98 @@
+[
+    {
+        "school": "ICN Business School",
+        "matched_to": "ICN Business School",
+        "program": "MSc International Business Development",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "ISCPA - IGENSIA Group",
+        "matched_to": "ISCPA (IGENSIA Group)",
+        "program": "Bachelor Communication",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "ISTEC Business School",
+        "matched_to": "ISTEC Business School",
+        "program": "Bachelor in Management",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "ISTEC Business School",
+        "matched_to": "ISTEC Business School",
+        "program": "Master in Management (Master Grande École)",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "ISCPA - IGENSIA Group",
+        "matched_to": "ISCPA (IGENSIA Group)",
+        "program": "Bachelor Production",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "ESLSCA Business School - Planeta Group",
+        "matched_to": "ESLSCA Business School - Planeta Group",
+        "program": "Bachelor Data Science",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "ESLSCA Business School - Planeta Group",
+        "matched_to": "ESLSCA Business School - Planeta Group",
+        "program": "MSc Purchasing & Supply Chain Management",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "Sports Management School - Planeta Group",
+        "matched_to": "Sports Management School - Planeta Group",
+        "program": "Bachelor Management du Sport",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "test school",
+        "best_match_score": 0,
+        "program": "test",
+        "reason": "school_not_found"
+    },
+    {
+        "school": "test school",
+        "best_match_score": 0,
+        "program": "test",
+        "reason": "school_not_found"
+    },
+    {
+        "school": "ESLSCA Business School - Planeta Group",
+        "matched_to": "ESLSCA Business School - Planeta Group",
+        "program": "Bachelor Data Science",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "ESLSCA Business School - Planeta Group",
+        "matched_to": "ESLSCA Business School - Planeta Group",
+        "program": "MSc Purchasing & Supply Chain Management",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "Sports Management School - Planeta Group",
+        "matched_to": "Sports Management School - Planeta Group",
+        "program": "Bachelor Management du Sport",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "CREAD - EDH Group",
+        "matched_to": "CREAD - EDH Group",
+        "program": "Test",
+        "reason": "program_not_found_in_school"
+    },
+    {
+        "school": "test school spain",
+        "best_match_score": 0,
+        "program": "Program name",
+        "reason": "school_not_found"
+    },
+    {
+        "school": "GBSB Global Business School",
+        "matched_to": "GBSB Global Business School",
+        "program": "Master in Digital Marketing",
+        "reason": "program_not_found_in_school"
+    }
+]
