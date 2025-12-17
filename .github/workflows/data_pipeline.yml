@@ -8,7 +8,7 @@ on:
       target_branch:
         description: 'Target branch for pull request'
         required: false
-        default: 'data-updates-test'
+        default: 'main'
         type: string
 
 permissions:
