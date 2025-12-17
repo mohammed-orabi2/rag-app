@@ -32,6 +32,8 @@ jobs:
           persist-credentials: true
 
       - name: Activate venv and run full data pipeline
+        env:
+          SECRET: ${{secrets.SECRET}}
         run: |
           source $HOME/sg/bin/activate
           python data/operations/full_data_pipeline.py
