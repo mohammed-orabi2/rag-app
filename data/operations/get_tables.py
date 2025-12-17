@@ -8,11 +8,22 @@ import os
 
 load_dotenv()
 
-SECRET = os.getenv("API_SECRET")
-BASE_URL = os.getenv("BASE_URL")
+
+
+def get_env_vars():
+    secret = os.getenv("API_SECRET")
+    base_url = os.getenv("BASE_URL")
+
+    if not secret:
+        raise RuntimeError("API_SECRET is not set")
+    if not base_url:
+        raise RuntimeError("BASE_URL is not set")
+
+    return secret, base_url
 
 
 def generate_token():
+    SECRET, _ = get_env_vars()
     payload = {
         "service": "ai-agent",
         "exp": datetime.now(timezone.utc) + timedelta(minutes=120),
@@ -21,6 +32,7 @@ def generate_token():
 
 
 def call_endpoint(endpoint: str):
+    _, BASE_URL = get_env_vars()
     token = generate_token()
     headers = {"Authorization": f"Bearer {token}"}
     url = f"{BASE_URL}{endpoint}"
