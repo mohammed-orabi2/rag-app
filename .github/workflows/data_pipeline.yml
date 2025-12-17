@@ -53,8 +53,14 @@ jobs:
           else
             git commit -m "Update VDB and JSON files - $(date -u +"%Y-%m-%d %H:%M UTC")"
 
+            # stash any leftover changes (generated files)
+            git stash push -u -m "pipeline-temp-stash"
+
             git fetch origin
             git rebase origin/main
+
+            # restore stashed changes
+            git stash pop || true
 
             git push origin main
             echo "has_changes=true" >> $GITHUB_ENV
