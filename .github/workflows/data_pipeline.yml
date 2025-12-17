@@ -30,7 +30,7 @@ jobs:
     
     - name: Activate venv and run full data pipeline
       run: |
-        source /home/omar_magdy/sg/bin/activate
+        source $HOME/sg/bin/activate
         python data/operations/full_data_pipeline.py
     
     - name: Push VDB and JSON to current branch
