@@ -7,12 +7,12 @@ import os
 
 
 def read_json_file(file_name):
-    with open(file_name, "rb", encoding="utf-8") as file:
+    with open(file_name, "rb") as file:
         return json.load(file)
 
 
 def save_json_file(file_name, data):
-    with open(file_name, "w", encoding="utf-8") as file:
+    with open(file_name, "w") as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 
