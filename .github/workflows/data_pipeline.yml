@@ -39,22 +39,24 @@ jobs:
           source $HOME/sg/bin/activate
           python data/operations/full_data_pipeline.py
 
-      - name: Commit and push changes
+      - name: Commit and push generated artifacts
         run: |
           git config --local user.email "mohamed.orabi@studentgator.com"
           git config --local user.name "mohammed-orabi2"
 
+          # Always align with remote main
           git fetch origin
-          git pull --rebase origin main
+          git reset --hard origin/main
 
+          # Add ONLY generated files
           git add data/vector_store/
           git add data/chroma_documents/*.json
 
           if git diff --staged --quiet; then
-            echo "has_changes=false" >> $GITHUB_ENV
             echo "No changes detected"
+            echo "has_changes=false" >> $GITHUB_ENV
           else
-            git commit -m "Update VDB and JSON files - $(date -u +"%Y-%m-%d %H:%M UTC")"
-            git push origin main
+            git commit -m "Update generated VDB & chroma docs - $(date -u +"%Y-%m-%d %H:%M UTC")"
+            git push origin main --force-with-lease
             echo "has_changes=true" >> $GITHUB_ENV
           fi
