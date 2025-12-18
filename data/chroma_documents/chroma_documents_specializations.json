@@ -6570,13 +6570,13 @@
     }
   },
   {
-    "page_content": "\n# Finance\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Finance\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €11,000\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Luxury & Brand Management\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Luxury & Brand Management\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €11,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 290,
       "program_type": "Bachelor",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 11000.0,
+      "price": 11500.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -6588,13 +6588,31 @@
     }
   },
   {
-    "page_content": "\n# Marketing\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Marketing\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €11,000\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Digital Marketing\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Digital Marketing\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Paris, Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €11,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 290,
       "program_type": "Bachelor",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 11000.0,
+      "price": 11500.0,
+      "campuses": "['Paris', 'Rennes']",
+      "French": false,
+      "English": true,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 9,
+      "BAC2": true
+    }
+  },
+  {
+    "page_content": "\n# Supply Chain\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Supply Chain\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €11,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "metadata": {
+      "program_id": 290,
+      "program_type": "Bachelor",
+      "school_type": "Grande Ecole",
+      "school_name": "Rennes School of Business",
+      "price": 11500.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -6606,14 +6624,14 @@
     }
   },
   {
-    "page_content": "\n# Supply Chain\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Supply Chain\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €11,000\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Finance\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Finance\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Paris, Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €11,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 290,
       "program_type": "Bachelor",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 11000.0,
-      "campuses": "['Rennes']",
+      "price": 11500.0,
+      "campuses": "['Paris', 'Rennes']",
       "French": false,
       "English": true,
       "Both": false,
@@ -6624,13 +6642,13 @@
     }
   },
   {
-    "page_content": "\n# Sustainable Business \n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Sustainable Business \n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,900\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Digital Marketing Management\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Digital Marketing Management\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €16,000\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 291,
       "program_type": "MIM",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15900.0,
+      "price": 16000.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -6642,13 +6660,13 @@
     }
   },
   {
-    "page_content": "\n# Business Analytics\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Business Analytics\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,900\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Data Analysis, Intelligence & Security\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Data Analysis, Intelligence & Security\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €16,000\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 291,
       "program_type": "MIM",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15900.0,
+      "price": 16000.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -6660,13 +6678,13 @@
     }
   },
   {
-    "page_content": "\n# Finance\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Finance\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,900\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# International Finance\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: International Finance\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €16,000\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 291,
       "program_type": "MIM",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15900.0,
+      "price": 16000.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -6678,13 +6696,13 @@
     }
   },
   {
-    "page_content": "\n# Supply Chain Management\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Supply Chain Management\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,900\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Logistics, Supply Chain & Purchasing\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Logistics, Supply Chain & Purchasing\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €16,000\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 291,
       "program_type": "MIM",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15900.0,
+      "price": 16000.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -6696,13 +6714,13 @@
     }
   },
   {
-    "page_content": "\n# Geopolitics & International Affairs\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Geopolitics & International Affairs\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,900\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# International Business Negotiation and Geopolitics\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: International Business Negotiation and Geopolitics\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €16,000\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 291,
       "program_type": "MIM",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15900.0,
+      "price": 16000.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -6714,31 +6732,13 @@
     }
   },
   {
-    "page_content": "\n# Cybersecurity & Digital Management\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Cybersecurity & Digital Management\n- **Duration**: 2.0 year(s)\n- **Entry Level**: BAC3\n\n## Practical Information\n- **Campus Location(s)**: Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,900\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# All Masters of Science are available\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: All Masters of Science are available\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Paris, Rennes\n- **Language of Instruction**: English\n- **Intake Period**: Not Specified\n- **Tuition Fee**: €17,000\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 291,
       "program_type": "MIM",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15900.0,
-      "campuses": "['Rennes']",
-      "French": false,
-      "English": true,
-      "Both": false,
-      "Mix": false,
-      "primos_arrivant": "",
-      "school_rank": 9,
-      "BAC3": true
-    }
-  },
-  {
-    "page_content": "\n# All Masters of Science are available\n\n## School Information\n- **School**: Rennes School of Business\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 9\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: All Masters of Science are available\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Paris, Rennes\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €16,400\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
-    "metadata": {
-      "program_id": 291,
-      "program_type": "MIM",
-      "school_type": "Grande Ecole",
-      "school_name": "Rennes School of Business",
-      "price": 16400.0,
+      "price": 17000.0,
       "campuses": "['Paris', 'Rennes']",
       "French": false,
       "English": true,
