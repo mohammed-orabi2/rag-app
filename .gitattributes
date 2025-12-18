@@ -1,0 +1,7 @@
+# Handle vector store binary files
+*.bin binary
+*.sqlite3 binary
+
+# Use 'ours' strategy for vector store files during merges
+data/vector_store/**/*.bin merge=ours
+data/vector_store/**/*.sqlite3 merge=ours

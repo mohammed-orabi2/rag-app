@@ -44,8 +44,14 @@ jobs:
           git config --local user.email "mohamed.orabi@studentgator.com"
           git config --local user.name "mohammed-orabi2"
 
+          # Fetch latest changes
           git fetch origin
-          git reset --hard origin/main
+
+          # Check if we're behind
+          if ! git merge-base --is-ancestor origin/main HEAD; then
+            echo "Branch is behind origin/main, pulling changes"
+            git pull origin main --no-edit
+          fi
 
           git add data/vector_store/
           git add data/chroma_documents/*.json
@@ -54,7 +60,14 @@ jobs:
             echo "No changes detected"
             echo "has_changes=false" >> $GITHUB_ENV
           else
-            git commit -m "Update generated VDB & chroma docs - $(date -u +"%Y-%m-%d %H:%M UTC")"
-            git push origin main --force-with-lease
+            git commit -m "Update VDB and JSON files - $(date -u +"%Y-%m-%d %H:%M UTC")"
+            
+            # Try to push, if it fails due to conflicts, pull and try again
+            if ! git push origin main; then
+              echo "Push failed, pulling latest changes and retrying"
+              git pull origin main --no-edit
+              git push origin main
+            fi
+            
             echo "has_changes=true" >> $GITHUB_ENV
           fi
