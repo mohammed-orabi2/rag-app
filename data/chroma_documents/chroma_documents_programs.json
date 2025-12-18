@@ -15,10 +15,10 @@
       "primos_arrivant": "",
       "school_rank": 27,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -164,8 +164,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -257,10 +257,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -603,8 +603,8 @@
       "primos_arrivant": "",
       "school_rank": 1,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -623,8 +623,8 @@
       "primos_arrivant": "",
       "school_rank": 1,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -861,8 +861,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -881,8 +881,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -901,8 +901,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -921,8 +921,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -941,8 +941,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -961,8 +961,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -1306,8 +1306,8 @@
       "primos_arrivant": "",
       "school_rank": 19,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -1525,8 +1525,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 19,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -1544,8 +1544,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 19,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -1564,8 +1564,8 @@
       "primos_arrivant": "",
       "school_rank": 4,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -1583,8 +1583,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2070,8 +2070,8 @@
       "primos_arrivant": "",
       "school_rank": 11,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2090,8 +2090,8 @@
       "primos_arrivant": "",
       "school_rank": 11,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2109,8 +2109,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 11,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -2291,8 +2291,8 @@
       "primos_arrivant": "",
       "school_rank": 10,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2310,8 +2310,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC3": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC3": true
     }
   },
   {
@@ -2479,8 +2479,8 @@
       "primos_arrivant": "",
       "school_rank": 20,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2643,8 +2643,8 @@
       "primos_arrivant": "",
       "school_rank": 25,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2663,8 +2663,8 @@
       "primos_arrivant": "",
       "school_rank": 25,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2718,8 +2718,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2792,9 +2792,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -2813,8 +2813,8 @@
       "primos_arrivant": "",
       "school_rank": 2,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3185,8 +3185,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -3258,8 +3258,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3278,8 +3278,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -3442,8 +3442,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3537,8 +3537,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3557,8 +3557,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3758,8 +3758,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3870,8 +3870,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3890,8 +3890,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3910,8 +3910,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3930,8 +3930,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3950,8 +3950,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3970,8 +3970,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3990,8 +3990,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -4065,8 +4065,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -4103,8 +4103,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -4123,8 +4123,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -4143,8 +4143,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -4560,9 +4560,9 @@
       "primos_arrivant": "",
       "school_rank": 5,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -4951,9 +4951,9 @@
       "primos_arrivant": "",
       "school_rank": 7,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -4971,8 +4971,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -4991,8 +4991,8 @@
       "primos_arrivant": "",
       "school_rank": 7,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -5384,8 +5384,8 @@
       "primos_arrivant": "",
       "school_rank": 9,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -5637,8 +5637,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -5845,8 +5845,8 @@
       "primos_arrivant": "",
       "school_rank": 14,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -5864,8 +5864,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 14,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -5979,8 +5979,8 @@
       "primos_arrivant": "",
       "school_rank": 21,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -5999,8 +5999,8 @@
       "primos_arrivant": "",
       "school_rank": 21,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -6019,8 +6019,8 @@
       "primos_arrivant": "",
       "school_rank": 21,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -6039,8 +6039,8 @@
       "primos_arrivant": "",
       "school_rank": 21,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -6058,9 +6058,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -6097,8 +6097,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 3,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -6116,8 +6116,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 3,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -6405,8 +6405,8 @@
       "primos_arrivant": "",
       "school_rank": 8,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -6803,8 +6803,8 @@
       "primos_arrivant": "",
       "school_rank": 12,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -6823,8 +6823,8 @@
       "primos_arrivant": "",
       "school_rank": 12,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -6843,9 +6843,9 @@
       "primos_arrivant": "",
       "school_rank": 12,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -7189,8 +7189,8 @@
       "primos_arrivant": "",
       "school_rank": 13,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7387,8 +7387,8 @@
       "primos_arrivant": "",
       "school_rank": 17,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7406,9 +7406,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -7517,8 +7517,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7537,8 +7537,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC4": true
+      "BAC4": true,
+      "BAC": true
     }
   },
   {
@@ -7557,8 +7557,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7633,8 +7633,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7672,8 +7672,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7692,8 +7692,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7712,8 +7712,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7972,8 +7972,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7991,8 +7991,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8011,8 +8011,8 @@
       "primos_arrivant": "",
       "school_rank": 26,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8031,8 +8031,8 @@
       "primos_arrivant": "",
       "school_rank": 26,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8051,8 +8051,8 @@
       "primos_arrivant": "",
       "school_rank": 26,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8071,10 +8071,10 @@
       "primos_arrivant": "",
       "school_rank": 26,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -8185,8 +8185,8 @@
       "primos_arrivant": "",
       "school_rank": 24,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8204,8 +8204,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -8410,8 +8410,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8447,8 +8447,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8837,8 +8837,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8856,8 +8856,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8875,8 +8875,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8894,8 +8894,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8913,8 +8913,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8932,8 +8932,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9095,8 +9095,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9114,8 +9114,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9133,8 +9133,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9152,8 +9152,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9171,8 +9171,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9190,8 +9190,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9209,8 +9209,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9355,8 +9355,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -9374,8 +9374,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9393,8 +9393,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9412,8 +9412,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9449,8 +9449,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9468,8 +9468,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9667,8 +9667,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9686,8 +9686,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9705,8 +9705,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9724,8 +9724,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9743,8 +9743,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9762,8 +9762,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9889,8 +9889,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9908,8 +9908,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9927,8 +9927,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9946,8 +9946,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -9983,8 +9983,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10002,8 +10002,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10021,8 +10021,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10040,8 +10040,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10329,8 +10329,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10348,8 +10348,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10367,8 +10367,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10386,8 +10386,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10495,8 +10495,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10514,8 +10514,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10533,8 +10533,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10552,8 +10552,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10589,8 +10589,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10608,8 +10608,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10627,8 +10627,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10647,8 +10647,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10792,8 +10792,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10811,8 +10811,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10830,8 +10830,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10849,8 +10849,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10868,8 +10868,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -10887,8 +10887,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -11624,8 +11624,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -11644,8 +11644,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -11663,8 +11663,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -11901,8 +11901,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -11977,8 +11977,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -11997,8 +11997,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12017,8 +12017,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12036,8 +12036,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12166,8 +12166,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12185,8 +12185,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12205,8 +12205,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12224,8 +12224,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12316,8 +12316,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12336,8 +12336,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12573,8 +12573,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12593,8 +12593,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12613,8 +12613,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12633,8 +12633,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12653,8 +12653,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12673,8 +12673,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -12693,8 +12693,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13029,9 +13029,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -13050,9 +13050,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -13071,9 +13071,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -13092,9 +13092,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -13113,9 +13113,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -13242,8 +13242,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13298,8 +13298,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13318,8 +13318,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13338,8 +13338,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13358,8 +13358,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13530,8 +13530,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13604,9 +13604,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -13625,8 +13625,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13645,8 +13645,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13665,8 +13665,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13685,8 +13685,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13705,8 +13705,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13797,8 +13797,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -13998,8 +13998,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14036,8 +14036,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14056,8 +14056,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14076,8 +14076,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14096,8 +14096,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14116,8 +14116,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14136,8 +14136,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14156,8 +14156,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14176,8 +14176,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14270,8 +14270,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14290,8 +14290,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14310,10 +14310,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -14332,8 +14332,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14352,8 +14352,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14372,8 +14372,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14392,8 +14392,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14598,9 +14598,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -14655,9 +14655,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -14676,8 +14676,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14731,8 +14731,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14750,8 +14750,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14769,8 +14769,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -14789,9 +14789,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -14810,9 +14810,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -14831,9 +14831,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -15086,8 +15086,8 @@
       "primos_arrivant": "",
       "school_rank": 28,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15291,8 +15291,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -15402,8 +15402,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15422,8 +15422,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15442,8 +15442,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15462,8 +15462,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15633,8 +15633,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15653,8 +15653,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15673,8 +15673,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15693,8 +15693,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15826,9 +15826,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -15847,9 +15847,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -15868,8 +15868,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15888,8 +15888,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -15908,8 +15908,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16002,8 +16002,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16040,8 +16040,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16060,8 +16060,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16080,8 +16080,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16100,8 +16100,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16120,8 +16120,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16140,8 +16140,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16160,8 +16160,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16180,8 +16180,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16381,8 +16381,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16400,8 +16400,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16476,8 +16476,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16496,8 +16496,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16535,8 +16535,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16555,8 +16555,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16575,8 +16575,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16595,8 +16595,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16615,8 +16615,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16635,8 +16635,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16674,8 +16674,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16694,8 +16694,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16732,8 +16732,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16752,8 +16752,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16772,8 +16772,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16792,8 +16792,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16811,8 +16811,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16830,8 +16830,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16849,8 +16849,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16868,8 +16868,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -16887,8 +16887,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -17001,8 +17001,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17021,9 +17021,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -17135,8 +17135,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17155,8 +17155,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17210,8 +17210,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17284,8 +17284,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17304,8 +17304,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17455,10 +17455,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17477,10 +17477,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17499,10 +17499,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17521,10 +17521,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17579,9 +17579,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -17600,10 +17600,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17622,9 +17622,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -17643,9 +17643,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -17664,9 +17664,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -17723,8 +17723,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17743,8 +17743,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17763,8 +17763,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17783,8 +17783,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17803,8 +17803,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17823,8 +17823,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17843,8 +17843,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17863,8 +17863,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17883,8 +17883,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -17903,9 +17903,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -18158,9 +18158,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -18251,8 +18251,8 @@
       "primos_arrivant": "",
       "school_rank": 20,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18325,8 +18325,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18363,8 +18363,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18383,8 +18383,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18440,8 +18440,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18460,8 +18460,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18479,8 +18479,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18574,8 +18574,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18594,9 +18594,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -18671,8 +18671,8 @@
       "primos_arrivant": "",
       "school_rank": 22,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -18690,9 +18690,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -19007,9 +19007,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -19083,8 +19083,8 @@
       "primos_arrivant": "",
       "school_rank": 23,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -20321,8 +20321,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -20340,8 +20340,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -20448,8 +20448,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -20593,9 +20593,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -20650,8 +20650,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -20670,8 +20670,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -20709,8 +20709,8 @@
       "primos_arrivant": "",
       "school_rank": 15,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -20729,9 +20729,9 @@
       "primos_arrivant": "",
       "school_rank": 15,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -20822,8 +20822,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -20950,8 +20950,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -21043,8 +21043,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -21063,8 +21063,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -21083,8 +21083,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -21197,8 +21197,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 29,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -21386,8 +21386,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -21550,8 +21550,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -21570,10 +21570,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -21592,8 +21592,8 @@
       "primos_arrivant": "",
       "school_rank": 16,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -21612,10 +21612,10 @@
       "primos_arrivant": "",
       "school_rank": 16,
       "BAC": true,
-      "BAC2": true,
-      "BAC1": true,
       "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -21634,8 +21634,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -21653,9 +21653,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -21746,9 +21746,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -21803,9 +21803,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -22022,9 +22022,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -22378,8 +22378,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -22579,8 +22579,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -22598,8 +22598,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -22617,8 +22617,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -22636,8 +22636,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -22655,8 +22655,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -23275,9 +23275,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -23406,8 +23406,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -23634,8 +23634,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -23672,9 +23672,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -23693,8 +23693,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -23713,8 +23713,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -23921,9 +23921,9 @@
       "primos_arrivant": "",
       "school_rank": 17,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
@@ -24237,8 +24237,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -24257,8 +24257,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -24551,8 +24551,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -24704,9 +24704,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC5": true,
-      "BAC2": true
+      "BAC5": true
     }
   },
   {
@@ -24725,9 +24725,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC5": true,
-      "BAC2": true
+      "BAC5": true
     }
   },
   {
@@ -25057,8 +25057,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -25077,8 +25077,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -25464,8 +25464,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -25742,8 +25742,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -25761,8 +25761,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -25780,8 +25780,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -25853,8 +25853,8 @@
       "primos_arrivant": "",
       "school_rank": 27,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -25927,8 +25927,8 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC3": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC3": true
     }
   },
   {
@@ -26021,8 +26021,8 @@
       "primos_arrivant": "",
       "school_rank": 21,
       "BAC1": true,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -26602,9 +26602,9 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC1": true,
-      "BAC": true,
+      "BAC2": true,
       "BAC3": true,
-      "BAC2": true
+      "BAC": true
     }
   },
   {
