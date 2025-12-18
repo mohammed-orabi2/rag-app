@@ -40,11 +40,6 @@ Thumbs.db
 *.log
 logs/
 
-# Vector store databases and binary files (frequently updated)
-data/vector_store/**/*.bin
-data/vector_store/**/*.sqlite3
-data/vector_store/**/*.db
-
 # Temporary files
 tmp/
 temp/
