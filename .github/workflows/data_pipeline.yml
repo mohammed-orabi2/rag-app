@@ -58,28 +58,3 @@ jobs:
             git push origin main
             echo "has_changes=true" >> $GITHUB_ENV
           fi
-
-      - name: Create Pull Request and Merge
-        if: env.has_changes == 'true'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          TARGET_BRANCH="${{ github.event.inputs.target_branch || 'main' }}"
-
-          gh pr create \
-            --title "Data Pipeline Update - VDB and JSON" \
-            --body "Automated update from full data pipeline" \
-            --base "$TARGET_BRANCH" \
-            --head "${{ github.ref_name }}"
-
-          sleep 5
-
-          PR_NUMBER=$(gh pr list \
-            --head "${{ github.ref_name }}" \
-            --base "$TARGET_BRANCH" \
-            --json number \
-            --jq '.[0].number')
-
-          if [ -n "$PR_NUMBER" ]; then
-            gh pr merge "$PR_NUMBER" --squash --delete-branch=false
-          fi
