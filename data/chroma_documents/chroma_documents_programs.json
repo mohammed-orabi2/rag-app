@@ -14,11 +14,11 @@
       "Mix": true,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -144,8 +144,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 14,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -163,9 +163,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -183,8 +183,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -256,11 +256,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -602,9 +602,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -622,9 +622,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -660,8 +660,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -715,8 +715,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -860,9 +860,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -880,9 +880,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -900,9 +900,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -920,9 +920,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -940,9 +940,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -960,9 +960,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -1268,8 +1268,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -1305,9 +1305,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 19,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -1415,8 +1415,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 19,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1452,8 +1452,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 19,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1525,8 +1525,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 19,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -1544,8 +1544,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 19,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -1563,9 +1563,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -1583,8 +1583,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -1656,8 +1656,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1675,8 +1675,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1694,8 +1694,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1713,8 +1713,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1732,8 +1732,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1751,8 +1751,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1770,8 +1770,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1789,8 +1789,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1808,8 +1808,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1845,8 +1845,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1864,8 +1864,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1883,8 +1883,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1902,8 +1902,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1921,8 +1921,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1958,8 +1958,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1977,8 +1977,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -1996,8 +1996,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2069,9 +2069,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 11,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -2089,9 +2089,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 11,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -2109,8 +2109,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 11,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -2290,9 +2290,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -2310,8 +2310,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC2": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC2": true
     }
   },
   {
@@ -2365,8 +2365,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2384,8 +2384,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2403,8 +2403,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2440,8 +2440,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2459,8 +2459,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2478,9 +2478,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 20,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -2642,9 +2642,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 25,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -2662,9 +2662,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 25,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -2718,8 +2718,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -2791,10 +2791,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -2812,9 +2812,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -2850,8 +2850,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2869,8 +2869,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2888,8 +2888,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2907,8 +2907,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2944,8 +2944,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2963,8 +2963,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -2982,8 +2982,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3001,8 +3001,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3020,8 +3020,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3039,8 +3039,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3058,8 +3058,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3185,8 +3185,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -3258,8 +3258,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -3277,9 +3277,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true
     }
   },
   {
@@ -3441,9 +3441,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3461,8 +3461,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3480,8 +3480,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3517,8 +3517,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3536,9 +3536,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3556,9 +3556,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3576,8 +3576,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3595,8 +3595,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3757,9 +3757,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3795,8 +3795,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3850,8 +3850,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -3869,9 +3869,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3889,9 +3889,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3909,9 +3909,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3929,9 +3929,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3949,9 +3949,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3969,9 +3969,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -3989,9 +3989,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -4009,8 +4009,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4064,9 +4064,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -4102,9 +4102,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -4122,9 +4122,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -4142,9 +4142,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -4162,8 +4162,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4559,10 +4559,10 @@
       "Mix": true,
       "primos_arrivant": "",
       "school_rank": 5,
+      "BAC3": true,
       "BAC2": true,
-      "BAC1": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true
     }
   },
   {
@@ -4724,8 +4724,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4743,8 +4743,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4780,8 +4780,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4799,8 +4799,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4818,8 +4818,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4837,8 +4837,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4856,8 +4856,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4875,8 +4875,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4894,8 +4894,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4913,8 +4913,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4950,10 +4950,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC2": true,
+      "BAC3": true,
       "BAC1": true,
       "BAC": true,
-      "BAC3": true
+      "BAC2": true
     }
   },
   {
@@ -4971,8 +4971,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -4990,9 +4990,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -5028,8 +5028,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5047,8 +5047,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5066,8 +5066,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5085,8 +5085,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5104,8 +5104,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5123,8 +5123,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5142,8 +5142,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5161,8 +5161,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5180,8 +5180,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5199,8 +5199,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5218,8 +5218,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5237,8 +5237,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5256,8 +5256,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5383,9 +5383,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -5413,7 +5413,7 @@
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15500.0,
+      "price": 15800.0,
       "campuses": "['Paris', 'Rennes']",
       "French": false,
       "English": true,
@@ -5421,18 +5421,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in Luxury Marketing & Brand Management\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in Luxury Marketing & Brand Management\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18500  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
     "metadata": {
       "program_id": 293,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15333.333333333334,
+      "price": 15800.0,
       "campuses": "['Paris', 'Rennes']",
       "French": false,
       "English": true,
@@ -5440,35 +5440,37 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in Immersive Design Management\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in Immersive Design Management\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
     "metadata": {
       "program_id": 294,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
       "price": "N/A",
-      "campuses": "['Rennes']",
+      "campuses": "['Paris']",
       "French": true,
       "English": false,
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in Geopolitics & Business\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18000  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in Geopolitics & Business\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
     "metadata": {
       "program_id": 295,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15333.333333333334,
+      "price": 15800.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -5476,7 +5478,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5486,7 +5489,7 @@
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15500.0,
+      "price": 15800.0,
       "campuses": "['Paris', 'Rennes']",
       "French": false,
       "English": true,
@@ -5494,18 +5497,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in Financial Data Intelligence\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18000  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in Financial Data Intelligence\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
     "metadata": {
       "program_id": 297,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15333.333333333334,
+      "price": 15800.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -5513,17 +5516,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in International Accounting, Management Control and Auditing\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18000  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in International Accounting, Management Control and Auditing\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
     "metadata": {
       "program_id": 298,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15333.333333333334,
+      "price": 15800.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -5531,17 +5535,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in Data and Business Analytics\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18000  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in Data and Business Analytics\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
     "metadata": {
       "program_id": 299,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15333.333333333334,
+      "price": 15800.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -5549,17 +5554,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in Logistics, Supply Chain & Purchasing\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Rennes  \n**Available Languages:** English  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in Logistics, Supply Chain & Purchasing\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €14900  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Rennes  \n**Available Languages:** English  \n**Alternance Options:** Alternance_Only, Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
     "metadata": {
       "program_id": 300,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15333.333333333334,
+      "price": 14450.0,
       "campuses": "['Paris', 'Rennes']",
       "French": false,
       "English": true,
@@ -5567,17 +5573,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in International Negotiation and Business Development\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18000  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in International Negotiation and Business Development\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €14900  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Alternance_Only, Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
     "metadata": {
       "program_id": 301,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "Rennes School of Business",
-      "price": 15333.333333333334,
+      "price": 14450.0,
       "campuses": "['Rennes']",
       "French": false,
       "English": true,
@@ -5585,7 +5592,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5639,8 +5647,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -5658,8 +5666,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5677,8 +5685,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5696,8 +5704,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5715,8 +5723,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5734,8 +5742,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5753,8 +5761,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5772,8 +5780,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5791,8 +5799,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -5846,9 +5854,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 14,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -5866,8 +5874,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 14,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -5885,8 +5893,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -5904,8 +5912,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -5923,8 +5931,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -5942,8 +5950,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -5961,8 +5969,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -5980,9 +5988,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -6000,9 +6008,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -6020,9 +6028,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -6040,9 +6048,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -6060,9 +6068,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC2": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC2": true
     }
   },
   {
@@ -6080,8 +6088,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 3,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -6099,8 +6107,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 3,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -6118,8 +6126,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 3,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -6406,9 +6414,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 8,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -6804,9 +6812,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 12,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -6824,9 +6832,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 12,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -6844,10 +6852,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 12,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -6919,8 +6927,8 @@
       "Mix": true,
       "primos_arrivant": "",
       "school_rank": 12,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7176,33 +7184,33 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Bachelor in Management\n\n**School:** ICN Business School  \n**Program Type:** Bachelor  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €8750 to €10000  \n**Available Intakes:** N/A  \n**Available Campuses:** Nancy, Paris  \n**Available Languages:** English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** International Business, Banque et Finance, Communication et Événementiel, Banque et Assurance, Management de l'innovation, Luxury retail strategies, Digital marketing\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 Bachelor in Management\n\n**School:** ICN Business School  \n**Program Type:** Bachelor  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €8900 to €10000  \n**Available Intakes:** N/A  \n**Available Campuses:** Nancy, Paris  \n**Available Languages:** Both, English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** International Business, Banque et Finance, Luxury Goods, Communication et Événementiel, Banque et Assurance, Management de l'innovation, Digital marketing\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 388,
       "program_type": "Bachelor",
       "school_type": "Grande Ecole",
       "school_name": "ICN Business School",
-      "price": 9205.0,
+      "price": 9225.0,
       "campuses": "['Nancy', 'Paris']",
       "French": true,
       "English": true,
-      "Both": false,
+      "Both": true,
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
-    "page_content": "\n# 🎓 Master in Management (Master Grande École)\n\n**School:** ICN Business School  \n**Program Type:** MIM  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** €14000  \n**Available Intakes:** N/A  \n**Available Campuses:** Nancy, Paris  \n**Available Languages:** Both, English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** Gestion des organisations, Finance, Marketing, Marketing, Ressources humaines, Audit & Compliance, Management of Organisations, Finance d'entreprise, Audit & compliance, Marketing & product innovation, Contrôle de gestion, Luxury and Design Management, Banque et gestion de patrimoine, Digital marketing, Corporate Finance, Stratégie marketing et développement commercial, Cultural and Creative Industries Management, International Business Development, Management des ressources humaines et innovations sociales, All Masters of Science are available\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 Master in Management (Master Grande École)\n\n**School:** ICN Business School  \n**Program Type:** MIM  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €14500 to €16000  \n**Available Intakes:** N/A  \n**Available Campuses:** Nancy, Paris  \n**Available Languages:** Both, English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** Marketing et innovation produit, Stratégie marketing et consulting, Communication et événementiel, Management de la supply chain et des achats, Finance d'entreprise, Audit & compliance, Contrôle de gestion, Corporate Finance, Marketing & product innovation, Management des ressources humaines et innovations sociales, All Masters of Science are available, International Business Development\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 389,
       "program_type": "MIM",
       "school_type": "Grande Ecole",
       "school_name": "ICN Business School",
-      "price": 14000.0,
+      "price": 15250.0,
       "campuses": "['Nancy', 'Paris']",
       "French": true,
       "English": true,
@@ -7231,21 +7239,22 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Banque et gestion de patrimoine\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12000 to €14000  \n**Available Intakes:** N/A  \n**Available Campuses:** Nancy  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Banque et gestion de patrimoine\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13000 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Nancy, Paris  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 391,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "ICN Business School",
-      "price": 12666.666666666666,
-      "campuses": "['Nancy']",
+      "price": 13666.666666666666,
+      "campuses": "['Nancy', 'Paris']",
       "French": true,
       "English": false,
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7303,13 +7312,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Marketing digital\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12000 to €14000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Marketing digital et stratégies d’influence\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13000 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 395,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "ICN Business School",
-      "price": 12666.666666666666,
+      "price": 13666.666666666666,
       "campuses": "['Paris']",
       "French": true,
       "English": false,
@@ -7317,35 +7326,37 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Luxury and design management\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12000 to €14000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Luxury and design management\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13000 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 396,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "ICN Business School",
-      "price": 12666.666666666666,
+      "price": 13666.666666666666,
       "campuses": "['Paris']",
-      "French": false,
+      "French": true,
       "English": true,
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Supply chain management and purchasing\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12000 to €14000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Smart & Sustainable Supply Chain Management\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13000 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 397,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "ICN Business School",
-      "price": 12666.666666666666,
+      "price": 13666.666666666666,
       "campuses": "['Paris']",
       "French": false,
       "English": true,
@@ -7353,7 +7364,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7388,9 +7400,9 @@
       "Mix": true,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -7408,9 +7420,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC2": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC2": true
     }
   },
   {
@@ -7518,9 +7530,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -7538,9 +7550,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
+      "BAC": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC4": true
     }
   },
   {
@@ -7558,9 +7570,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -7578,8 +7590,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7597,8 +7609,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7616,8 +7628,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7635,8 +7647,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -7654,8 +7666,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7673,9 +7685,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -7693,9 +7705,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -7713,9 +7725,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -7769,8 +7781,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7860,8 +7872,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -7879,8 +7891,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -7898,8 +7910,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7917,8 +7929,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7936,8 +7948,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7955,8 +7967,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7974,8 +7986,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -7993,8 +8005,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -8012,9 +8024,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 26,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -8032,9 +8044,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 26,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -8052,9 +8064,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 26,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -8072,11 +8084,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 26,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -8094,8 +8106,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 26,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8113,8 +8125,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 26,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8186,9 +8198,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -8206,8 +8218,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -8225,8 +8237,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8244,8 +8256,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8263,8 +8275,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8282,8 +8294,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8301,8 +8313,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8320,8 +8332,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8339,8 +8351,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8412,8 +8424,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -8449,8 +8461,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -8468,8 +8480,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8487,8 +8499,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8506,8 +8518,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8579,8 +8591,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8652,8 +8664,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8707,8 +8719,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8744,8 +8756,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8763,8 +8775,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8782,8 +8794,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8801,8 +8813,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8820,8 +8832,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -8839,8 +8851,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -8858,8 +8870,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -8877,8 +8889,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -8896,8 +8908,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -8915,8 +8927,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -8934,8 +8946,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9097,8 +9109,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9116,8 +9128,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9135,8 +9147,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9154,8 +9166,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9173,8 +9185,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9192,8 +9204,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9211,8 +9223,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9284,8 +9296,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -9357,8 +9369,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -9376,8 +9388,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9395,8 +9407,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9414,8 +9426,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9451,8 +9463,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9470,8 +9482,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9669,8 +9681,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9688,8 +9700,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9707,8 +9719,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9726,8 +9738,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9745,8 +9757,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9764,8 +9776,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9891,8 +9903,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9910,8 +9922,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9929,8 +9941,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9948,8 +9960,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -9985,8 +9997,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10004,8 +10016,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10023,8 +10035,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10042,8 +10054,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10331,8 +10343,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10350,8 +10362,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10369,8 +10381,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10388,8 +10400,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10497,8 +10509,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10516,8 +10528,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10535,8 +10547,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10554,8 +10566,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10591,8 +10603,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10610,8 +10622,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10629,8 +10641,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10648,9 +10660,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -10794,8 +10806,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10813,8 +10825,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10832,8 +10844,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10851,8 +10863,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10870,8 +10882,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -10889,8 +10901,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -11052,8 +11064,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11071,8 +11083,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11090,8 +11102,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11109,8 +11121,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11146,8 +11158,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11165,8 +11177,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11184,8 +11196,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11203,8 +11215,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11222,8 +11234,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11241,8 +11253,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11260,8 +11272,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11279,8 +11291,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11316,8 +11328,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11425,8 +11437,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -11606,8 +11618,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11625,9 +11637,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -11645,9 +11657,9 @@
       "Mix": true,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -11665,8 +11677,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -11864,8 +11876,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11883,8 +11895,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11902,9 +11914,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -11940,8 +11952,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11959,8 +11971,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -11978,9 +11990,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -11998,9 +12010,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12018,9 +12030,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12038,8 +12050,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -12057,8 +12069,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12076,8 +12088,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12095,8 +12107,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12168,8 +12180,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -12187,8 +12199,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -12206,9 +12218,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12226,8 +12238,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -12317,9 +12329,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12337,9 +12349,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12483,8 +12495,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12574,9 +12586,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12594,9 +12606,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12614,9 +12626,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12634,9 +12646,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12654,9 +12666,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12674,9 +12686,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12694,9 +12706,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -12750,8 +12762,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12769,8 +12781,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12788,8 +12800,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12807,8 +12819,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12826,8 +12838,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12845,8 +12857,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12864,8 +12876,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12883,8 +12895,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12902,8 +12914,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -12921,8 +12933,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13030,10 +13042,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -13051,10 +13063,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -13072,10 +13084,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -13093,10 +13105,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -13114,10 +13126,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -13225,8 +13237,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13244,8 +13256,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -13299,9 +13311,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13319,9 +13331,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13339,9 +13351,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13359,9 +13371,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13379,8 +13391,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13398,8 +13410,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13417,8 +13429,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13436,8 +13448,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13455,8 +13467,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13474,8 +13486,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13493,8 +13505,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13512,8 +13524,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -13531,9 +13543,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13605,10 +13617,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -13626,9 +13638,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13646,9 +13658,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13666,9 +13678,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13686,9 +13698,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13706,9 +13718,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13798,9 +13810,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -13944,8 +13956,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -13999,9 +14011,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14037,9 +14049,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14057,9 +14069,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14077,9 +14089,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14097,9 +14109,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14117,9 +14129,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14137,9 +14149,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14157,9 +14169,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14177,9 +14189,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14197,8 +14209,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -14216,8 +14228,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -14271,9 +14283,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14291,9 +14303,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14311,11 +14323,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
       "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -14333,9 +14345,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14353,9 +14365,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14373,9 +14385,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14393,9 +14405,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14431,8 +14443,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -14450,8 +14462,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -14469,8 +14481,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -14488,8 +14500,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -14507,8 +14519,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -14526,8 +14538,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -14599,10 +14611,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -14656,10 +14668,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -14677,9 +14689,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -14733,8 +14745,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -14752,8 +14764,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -14771,8 +14783,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -14790,10 +14802,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -14811,10 +14823,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -14832,10 +14844,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -15087,9 +15099,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 28,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15161,8 +15173,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15180,8 +15192,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15199,8 +15211,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15218,8 +15230,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15237,8 +15249,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15256,8 +15268,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15293,8 +15305,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -15366,8 +15378,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -15403,9 +15415,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15423,9 +15435,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15443,9 +15455,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15463,9 +15475,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15501,8 +15513,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15520,8 +15532,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15539,8 +15551,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15558,8 +15570,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15577,8 +15589,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15596,8 +15608,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15615,8 +15627,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15634,9 +15646,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15654,9 +15666,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15674,9 +15686,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15694,9 +15706,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15732,8 +15744,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15751,8 +15763,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15770,8 +15782,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15789,8 +15801,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15808,8 +15820,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15827,10 +15839,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -15848,10 +15860,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -15869,9 +15881,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15889,9 +15901,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15909,9 +15921,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -15965,8 +15977,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -15984,8 +15996,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16003,9 +16015,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16041,9 +16053,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16061,9 +16073,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16081,9 +16093,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16101,9 +16113,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16121,9 +16133,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16141,9 +16153,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16161,9 +16173,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16181,9 +16193,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16201,8 +16213,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16238,8 +16250,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16383,8 +16395,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -16402,8 +16414,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -16421,8 +16433,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16458,8 +16470,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16477,9 +16489,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16497,9 +16509,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16517,8 +16529,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -16536,9 +16548,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16556,9 +16568,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16576,9 +16588,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16596,9 +16608,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16616,9 +16628,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16636,9 +16648,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16656,8 +16668,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16675,9 +16687,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16695,9 +16707,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16733,9 +16745,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16753,9 +16765,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16773,9 +16785,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16793,9 +16805,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -16813,8 +16825,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -16832,8 +16844,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -16851,8 +16863,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -16870,8 +16882,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -16889,8 +16901,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -16926,8 +16938,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16945,8 +16957,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16964,8 +16976,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -16983,8 +16995,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17002,9 +17014,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17022,10 +17034,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17061,8 +17073,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17080,8 +17092,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17099,8 +17111,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17136,9 +17148,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17156,9 +17168,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17212,8 +17224,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -17285,9 +17297,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17305,9 +17317,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17361,8 +17373,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17380,8 +17392,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17399,8 +17411,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17418,8 +17430,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17437,8 +17449,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -17456,11 +17468,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -17478,11 +17490,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -17500,11 +17512,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -17522,11 +17534,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -17580,10 +17592,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17601,11 +17613,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -17623,10 +17635,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17644,10 +17656,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17665,10 +17677,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -17686,8 +17698,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -17705,8 +17717,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -17724,9 +17736,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17744,9 +17756,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17764,9 +17776,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17784,9 +17796,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17804,9 +17816,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17824,9 +17836,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17844,9 +17856,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17864,9 +17876,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17884,9 +17896,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -17904,10 +17916,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -18159,10 +18171,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -18252,9 +18264,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 20,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -18326,9 +18338,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -18364,9 +18376,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -18384,9 +18396,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -18404,8 +18416,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18441,9 +18453,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -18461,9 +18473,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -18481,8 +18493,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -18518,8 +18530,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18537,8 +18549,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18556,8 +18568,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18575,9 +18587,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -18595,10 +18607,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -18616,8 +18628,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18653,8 +18665,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18672,9 +18684,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -18692,9 +18704,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC2": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC2": true
     }
   },
   {
@@ -18730,8 +18742,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18767,8 +18779,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18840,8 +18852,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18859,8 +18871,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18914,8 +18926,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18933,8 +18945,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18952,8 +18964,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -18971,8 +18983,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -19008,10 +19020,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -19065,8 +19077,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -19084,9 +19096,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -19104,8 +19116,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19123,8 +19135,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19142,8 +19154,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19161,8 +19173,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19180,8 +19192,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19199,8 +19211,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19236,8 +19248,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19255,8 +19267,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19274,8 +19286,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19311,8 +19323,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19330,8 +19342,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19349,8 +19361,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19368,8 +19380,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19405,8 +19417,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19424,8 +19436,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19443,8 +19455,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19462,8 +19474,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19481,8 +19493,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19500,8 +19512,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19519,8 +19531,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19538,8 +19550,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19629,8 +19641,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19648,8 +19660,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19685,8 +19697,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19740,8 +19752,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19759,8 +19771,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19778,8 +19790,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -19995,8 +20007,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -20032,8 +20044,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -20051,8 +20063,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -20106,8 +20118,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -20323,8 +20335,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -20342,8 +20354,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -20450,8 +20462,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -20594,10 +20606,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -20651,9 +20663,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -20671,9 +20683,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -20691,8 +20703,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -20710,9 +20722,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 15,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -20730,10 +20742,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 15,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -20823,9 +20835,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -20951,9 +20963,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -20971,8 +20983,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -21044,9 +21056,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -21064,9 +21076,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -21084,9 +21096,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -21104,8 +21116,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -21123,8 +21135,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -21142,8 +21154,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -21161,8 +21173,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -21180,8 +21192,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 29,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -21199,8 +21211,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 29,
-      "BAC": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC": true
     }
   },
   {
@@ -21236,8 +21248,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 29,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -21255,8 +21267,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 29,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -21274,8 +21286,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 29,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -21311,8 +21323,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -21330,8 +21342,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -21349,8 +21361,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -21368,8 +21380,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -21387,9 +21399,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true
     }
   },
   {
@@ -21551,9 +21563,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -21571,11 +21583,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true,
+      "BAC4": true
     }
   },
   {
@@ -21593,9 +21605,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -21613,11 +21625,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC2": true,
       "BAC3": true,
       "BAC1": true,
       "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -21635,9 +21647,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -21655,9 +21667,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC2": true
     }
   },
   {
@@ -21747,10 +21759,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -21804,10 +21816,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -22023,10 +22035,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -22062,8 +22074,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -22135,8 +22147,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -22154,8 +22166,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -22173,8 +22185,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -22192,8 +22204,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -22211,8 +22223,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -22230,8 +22242,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -22249,8 +22261,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -22286,8 +22298,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -22305,8 +22317,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -22342,8 +22354,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -22379,9 +22391,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -22399,8 +22411,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -22562,8 +22574,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -22581,8 +22593,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -22600,8 +22612,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -22619,8 +22631,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -22638,8 +22650,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -22657,8 +22669,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -22694,8 +22706,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -22713,8 +22725,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -22840,8 +22852,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -22895,8 +22907,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23040,8 +23052,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23059,8 +23071,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23276,10 +23288,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -23351,8 +23363,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -23388,8 +23400,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23407,9 +23419,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -23445,8 +23457,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23464,8 +23476,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23483,8 +23495,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23502,8 +23514,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23521,8 +23533,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23540,8 +23552,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23559,8 +23571,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23578,8 +23590,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23597,8 +23609,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23616,8 +23628,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23635,9 +23647,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -23673,10 +23685,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -23694,9 +23706,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -23714,9 +23726,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -23734,8 +23746,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23789,8 +23801,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23808,8 +23820,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23827,8 +23839,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23846,8 +23858,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23865,8 +23877,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23884,8 +23896,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23903,8 +23915,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -23922,10 +23934,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -24087,8 +24099,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24106,8 +24118,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24143,8 +24155,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24162,8 +24174,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24181,8 +24193,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24200,8 +24212,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24219,8 +24231,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24238,9 +24250,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -24258,9 +24270,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -24332,8 +24344,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24351,8 +24363,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24370,8 +24382,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24389,8 +24401,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24552,9 +24564,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -24572,8 +24584,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -24591,8 +24603,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24610,8 +24622,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24629,8 +24641,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24648,8 +24660,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24667,8 +24679,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24686,8 +24698,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24705,10 +24717,10 @@
       "Mix": true,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC3": true,
       "BAC1": true,
       "BAC5": true,
-      "BAC3": true
+      "BAC2": true
     }
   },
   {
@@ -24726,10 +24738,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC3": true,
       "BAC1": true,
       "BAC5": true,
-      "BAC3": true
+      "BAC2": true
     }
   },
   {
@@ -24769,22 +24781,22 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Finance, Risk & Markets\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12000 to €14000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** Mix  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Finance, Risques & Marchés\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13000 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 1325,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "ICN Business School",
-      "price": 13000.0,
+      "price": 14000.0,
       "campuses": "['Paris']",
-      "French": false,
+      "French": true,
       "English": false,
       "Both": false,
-      "Mix": true,
+      "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24838,8 +24850,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24857,8 +24869,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -24930,8 +24942,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25003,8 +25015,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 2,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25058,9 +25070,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -25078,9 +25090,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -25152,8 +25164,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25171,8 +25183,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25190,8 +25202,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25209,8 +25221,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25408,8 +25420,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25427,8 +25439,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25446,8 +25458,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25465,9 +25477,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -25485,8 +25497,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -25504,8 +25516,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25523,8 +25535,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25542,8 +25554,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25561,8 +25573,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25580,8 +25592,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25599,8 +25611,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -25744,8 +25756,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -25763,8 +25775,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -25782,8 +25794,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC": true
+      "BAC": true,
+      "BAC2": true
     }
   },
   {
@@ -25854,9 +25866,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -25928,9 +25940,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
+      "BAC3": true,
       "BAC1": true,
-      "BAC3": true
+      "BAC2": true
     }
   },
   {
@@ -25948,8 +25960,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -25967,8 +25979,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -26022,9 +26034,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC2": true,
+      "BAC": true,
       "BAC1": true,
-      "BAC": true
+      "BAC2": true
     }
   },
   {
@@ -26366,8 +26378,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 12,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -26457,8 +26469,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -26534,13 +26546,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Performance commerciale et relation client\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** €13000  \n**Available Intakes:** N/A  \n**Available Campuses:** Nancy, Paris  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Performance commerciale et relation client\n\n**School:** ICN Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13000 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Nancy, Paris  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 1421,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "ICN Business School",
-      "price": 13000.0,
+      "price": 13666.666666666666,
       "campuses": "['Nancy', 'Paris']",
       "French": true,
       "English": false,
@@ -26548,8 +26560,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC4": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -26603,10 +26615,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
-      "BAC1": true,
+      "BAC3": true,
       "BAC": true,
-      "BAC3": true
+      "BAC1": true,
+      "BAC2": true
     }
   },
   {
@@ -26642,7 +26654,81 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC1": true,
+      "BAC": true,
+      "BAC1": true
+    }
+  },
+  {
+    "page_content": "\n# 🎓 MSc in Big Data & AI\n\n**School:** SRH University  \n**Program Type:** MSc  \n**School Type:** None  \n**Field:** None  \n**School Rank** un ranked\n**Price Range:** from €11155 to €17250  \n**Available Intakes:** N/A  \n**Available Campuses:** Berlin, Leipzig  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** N/A\n        --------End of program--------",
+    "metadata": {
+      "program_id": 1427,
+      "program_type": "MSc",
+      "school_type": null,
+      "school_name": "SRH University",
+      "price": 13186.666666666666,
+      "campuses": "['Berlin', 'Leipzig']",
+      "French": false,
+      "English": true,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 50,
+      "BAC3": true
+    }
+  },
+  {
+    "page_content": "\n# 🎓 MSc in Cyber Security and Risk Management\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €14900  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "metadata": {
+      "program_id": 1428,
+      "program_type": "MSc",
+      "school_type": "Grande Ecole",
+      "school_name": "Rennes School of Business",
+      "price": 14450.0,
+      "campuses": "['Rennes']",
+      "French": false,
+      "English": true,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 9,
+      "BAC3": true,
+      "BAC4": true
+    }
+  },
+  {
+    "page_content": "\n# 🎓 MSc in International Music Business\n\n**School:** Rennes School of Business  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 9\n**Price Range:** from €14000 to €18500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rennes  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, AMBA, EQUIS\n        --------End of program--------",
+    "metadata": {
+      "program_id": 1429,
+      "program_type": "MSc",
+      "school_type": "Grande Ecole",
+      "school_name": "Rennes School of Business",
+      "price": 15800.0,
+      "campuses": "['Rennes']",
+      "French": false,
+      "English": true,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 9,
+      "BAC3": true,
+      "BAC4": true
+    }
+  },
+  {
+    "page_content": "\n# 🎓 International BBA\n\n**School:** ICN Business School  \n**Program Type:** BBA  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** €9900  \n**Available Intakes:** N/A  \n**Available Campuses:** Berlin, Paris  \n**Available Languages:** English, French, Mix  \n**Alternance Options:** Not_Available  \n**Available Specializations:** International Luxury Management, Business & Data Management, International Corporate Finance, International Business Development\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "metadata": {
+      "program_id": 1430,
+      "program_type": "BBA",
+      "school_type": "Grande Ecole",
+      "school_name": "ICN Business School",
+      "price": 9900.0,
+      "campuses": "['Berlin', 'Paris']",
+      "French": true,
+      "English": true,
+      "Both": false,
+      "Mix": true,
+      "primos_arrivant": "",
+      "school_rank": 13,
       "BAC": true
     }
   }
