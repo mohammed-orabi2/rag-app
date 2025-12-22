@@ -2,13 +2,14 @@ name: Full Data Pipeline
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '30 13 * * *'
+    - cron: '30 16 * * *'
   workflow_dispatch:
     inputs:
       target_branch:
         description: 'Target branch for pull request'
         required: false
-        default: 'main'
+        default: 'test'
         type: string
 
 permissions:
@@ -35,6 +36,9 @@ jobs:
         env:
           API_SECRET: ${{ secrets.API_SECRET }}
           BASE_URL: ${{ secrets.BASE_URL }}
+          CHROMA_CONTAINER: chromadb
+          CHROMA_PORT: 8000
+
         run: |
           source $HOME/sg/bin/activate
           python data/operations/full_data_pipeline.py
@@ -48,9 +52,9 @@ jobs:
           git fetch origin
 
           # Check if we're behind
-          if ! git merge-base --is-ancestor origin/main HEAD; then
-            echo "Branch is behind origin/main, pulling changes"
-            git pull origin main --no-edit
+          if ! git merge-base --is-ancestor origin/test HEAD; then
+            echo "Branch is behind origin/test, pulling changes"
+            git pull origin test --no-edit
           fi
 
           git add data/vector_store/
@@ -63,11 +67,21 @@ jobs:
             git commit -m "Update VDB and JSON files - $(date -u +"%Y-%m-%d %H:%M UTC")"
             
             # Try to push, if it fails due to conflicts, pull and try again
-            if ! git push origin main; then
+            if ! git push origin test; then
               echo "Push failed, pulling latest changes and retrying"
-              git pull origin main --no-edit
-              git push origin main
+              git pull origin test --no-edit
+              git push origin test
             fi
             
             echo "has_changes=true" >> $GITHUB_ENV
           fi
+
+      - name: Reload ChromaDB using docker compose
+        run: |
+          cd /home/omar_magdy/counselling-bot/Docker
+          docker compose up -d --force-recreate chromadb
+
+      - name: Health check ChromaDB
+        run: |
+          sleep 10
+          curl http://localhost:8000/api/v1/heartbeat
