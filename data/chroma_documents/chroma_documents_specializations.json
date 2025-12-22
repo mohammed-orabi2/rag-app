@@ -9378,32 +9378,14 @@
     }
   },
   {
-    "page_content": "\n# International Business Developer \n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: International Business Developer \n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Angers, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €10,800\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Marketing et commercialisation\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Marketing et commercialisation\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris, Strasbourg\n- **Language of Instruction**: French\n- **Intake Period**: Fall\n- **Tuition Fee**: €11,800\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 399,
       "program_type": "Bachelor",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 10800.0,
-      "campuses": "['Angers', 'Lyon', 'Paris']",
-      "French": false,
-      "English": true,
-      "Both": false,
-      "Mix": false,
-      "primos_arrivant": "",
-      "school_rank": 17,
-      "BAC2": true
-    }
-  },
-  {
-    "page_content": "\n# Entrepreneuriat & Innovation\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Entrepreneuriat & Innovation\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Strasbourg\n- **Language of Instruction**: French\n- **Intake Period**: FALL\n- **Tuition Fee**: €10,800\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
-    "metadata": {
-      "program_id": 399,
-      "program_type": "Bachelor",
-      "school_type": "Grande Ecole",
-      "school_name": "ESSCA Business School",
-      "price": 10800.0,
-      "campuses": "['Aix-en-Provence', 'Angers', 'Bordeaux', 'Lyon', 'Strasbourg']",
+      "price": 11800.0,
+      "campuses": "['Aix-en-Provence', 'Angers', 'Bordeaux', 'Lyon', 'Paris', 'Strasbourg']",
       "French": true,
       "English": false,
       "Both": false,
@@ -9414,13 +9396,85 @@
     }
   },
   {
-    "page_content": "\n# Banking and Financial Engineering\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Banking and Financial Engineering\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Entrepreneuriat et Innovation\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Entrepreneuriat et Innovation\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris, Strasbourg\n- **Language of Instruction**: French\n- **Intake Period**: Fall\n- **Tuition Fee**: €11,800\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "metadata": {
+      "program_id": 399,
+      "program_type": "Bachelor",
+      "school_type": "Grande Ecole",
+      "school_name": "ESSCA Business School",
+      "price": 11800.0,
+      "campuses": "['Aix-en-Provence', 'Angers', 'Bordeaux', 'Lyon', 'Paris', 'Strasbourg']",
+      "French": true,
+      "English": false,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 17,
+      "BAC2": true
+    }
+  },
+  {
+    "page_content": "\n# International Business Developer \n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: International Business Developer \n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €11,800\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "metadata": {
+      "program_id": 399,
+      "program_type": "Bachelor",
+      "school_type": "Grande Ecole",
+      "school_name": "ESSCA Business School",
+      "price": 11800.0,
+      "campuses": "['Lyon', 'Paris']",
+      "French": false,
+      "English": true,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 17,
+      "BAC2": true
+    }
+  },
+  {
+    "page_content": "\n# International Business Developer option AI, Data & Cybersecurity\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: International Business Developer option AI, Data & Cybersecurity\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC2\n\n## Practical Information\n- **Campus Location(s)**: Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: Fall\n- **Tuition Fee**: €11,800\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "metadata": {
+      "program_id": 399,
+      "program_type": "Bachelor",
+      "school_type": "Grande Ecole",
+      "school_name": "ESSCA Business School",
+      "price": 11800.0,
+      "campuses": "['Lyon', 'Paris']",
+      "French": false,
+      "English": true,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 17,
+      "BAC2": true
+    }
+  },
+  {
+    "page_content": "\n# Achats et Supply Chain\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Achats et Supply Chain\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Angers\n- **Language of Instruction**: French\n- **Intake Period**: Fall\n- **Tuition Fee**: €15,300\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 400,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 14500.0,
+      "price": 15300.0,
+      "campuses": "['Angers']",
+      "French": true,
+      "English": false,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 17,
+      "BAC4": true
+    }
+  },
+  {
+    "page_content": "\n# Banking and Financial Engineering\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Banking and Financial Engineering\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,300\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "metadata": {
+      "program_id": 400,
+      "program_type": "PGE",
+      "school_type": "Grande Ecole",
+      "school_name": "ESSCA Business School",
+      "price": 15300.0,
       "campuses": "['Aix-en-Provence', 'Angers', 'Bordeaux', 'Lyon', 'Paris']",
       "French": false,
       "English": true,
@@ -9432,13 +9486,13 @@
     }
   },
   {
-    "page_content": "\n# Audit Expertise\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Audit Expertise\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Angers, Lyon\n- **Language of Instruction**: French\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Audit Expertise\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Audit Expertise\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Angers, Lyon\n- **Language of Instruction**: French\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,300\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 400,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 14500.0,
+      "price": 15300.0,
       "campuses": "['Angers', 'Lyon']",
       "French": true,
       "English": false,
@@ -9450,13 +9504,13 @@
     }
   },
   {
-    "page_content": "\n# International Business and Management \n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: International Business and Management \n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# International Business and Management \n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: International Business and Management \n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,300\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 400,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 14500.0,
+      "price": 15300.0,
       "campuses": "['Aix-en-Provence', 'Angers', 'Bordeaux', 'Lyon', 'Paris']",
       "French": false,
       "English": true,
@@ -9468,13 +9522,13 @@
     }
   },
   {
-    "page_content": "\n# Marketing & Customer Experience\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Marketing & Customer Experience\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Marketing & Customer Experience\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Marketing & Customer Experience\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,300\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 400,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 14500.0,
+      "price": 15300.0,
       "campuses": "['Aix-en-Provence', 'Angers', 'Bordeaux', 'Lyon', 'Paris']",
       "French": false,
       "English": true,
@@ -9486,13 +9540,13 @@
     }
   },
   {
-    "page_content": "\n# Marketing & Digital Communication \n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Marketing & Digital Communication \n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Marketing & Digital Communication \n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Marketing & Digital Communication \n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,300\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 400,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 14500.0,
+      "price": 15300.0,
       "campuses": "['Aix-en-Provence', 'Angers', 'Bordeaux', 'Lyon', 'Paris']",
       "French": false,
       "English": true,
@@ -9504,13 +9558,13 @@
     }
   },
   {
-    "page_content": "\n# Gestion des prix et des revenus\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Gestion des prix et des revenus\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Angers, Lyon\n- **Language of Instruction**: French\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Gestion des prix et des revenus\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Gestion des prix et des revenus\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Angers, Lyon\n- **Language of Instruction**: French\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,300\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 400,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 14500.0,
+      "price": 15300.0,
       "campuses": "['Angers', 'Lyon']",
       "French": true,
       "English": false,
@@ -9522,13 +9576,13 @@
     }
   },
   {
-    "page_content": "\n# Corporate Finance\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Corporate Finance\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# Corporate Finance\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Corporate Finance\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Aix-en-Provence, Angers, Bordeaux, Lyon, Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,300\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 400,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 14500.0,
+      "price": 15300.0,
       "campuses": "['Aix-en-Provence', 'Angers', 'Bordeaux', 'Lyon', 'Paris']",
       "French": false,
       "English": true,
@@ -9540,53 +9594,53 @@
     }
   },
   {
-    "page_content": "\n# Conseil\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Conseil\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Angers, Lyon\n- **Language of Instruction**: French\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
+    "page_content": "\n# All Masters of Science are available\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: All Masters of Science are available\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €15,300\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
     "metadata": {
       "program_id": 400,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "ESSCA Business School",
-      "price": 14500.0,
-      "campuses": "['Angers', 'Lyon']",
-      "French": true,
-      "English": false,
-      "Both": false,
-      "Mix": false,
-      "primos_arrivant": "",
-      "school_rank": 17,
-      "BAC4": true
-    }
-  },
-  {
-    "page_content": "\n# Entrepreneuriat et innovation\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Entrepreneuriat et innovation\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Angers, Lyon\n- **Language of Instruction**: French\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Available\n\n    --------End of specialization--------\n\n\n    ",
-    "metadata": {
-      "program_id": 400,
-      "program_type": "PGE",
-      "school_type": "Grande Ecole",
-      "school_name": "ESSCA Business School",
-      "price": 14500.0,
-      "campuses": "['Angers', 'Lyon']",
-      "French": true,
-      "English": false,
-      "Both": false,
-      "Mix": false,
-      "primos_arrivant": "",
-      "school_rank": 17,
-      "BAC4": true
-    }
-  },
-  {
-    "page_content": "\n# All Masters of Science are available\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: All Masters of Science are available\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Paris\n- **Language of Instruction**: English\n- **Intake Period**: FALL\n- **Tuition Fee**: €14,500\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
-    "metadata": {
-      "program_id": 400,
-      "program_type": "PGE",
-      "school_type": "Grande Ecole",
-      "school_name": "ESSCA Business School",
-      "price": 14500.0,
+      "price": 15300.0,
       "campuses": "['Paris']",
       "French": false,
       "English": true,
       "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 17,
+      "BAC4": true
+    }
+  },
+  {
+    "page_content": "\n# Consulting\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Consulting\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Paris\n- **Language of Instruction**: French\n- **Intake Period**: Fall\n- **Tuition Fee**: €15,300\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "metadata": {
+      "program_id": 400,
+      "program_type": "PGE",
+      "school_type": "Grande Ecole",
+      "school_name": "ESSCA Business School",
+      "price": 15300.0,
+      "campuses": "['Paris']",
+      "French": true,
+      "English": false,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 17,
+      "BAC4": true
+    }
+  },
+  {
+    "page_content": "\n# Entrepreneurship and Innovation\n\n## School Information\n- **School**: ESSCA Business School\n- **School Type**: Grande Ecole\n- **Field**: Business School\n- **School Rank**: 17\n- **Accreditations**: AACSB, AMBA, EQUIS\n\n- **Specialization**: Entrepreneurship and Innovation\n- **Duration**: 1.0 year(s)\n- **Entry Level**: BAC4\n\n## Practical Information\n- **Campus Location(s)**: Angers, Paris\n- **Language of Instruction**: Both\n- **Intake Period**: Fall\n- **Tuition Fee**: €15,300\n- **Alternance**: Not_Available\n\n    --------End of specialization--------\n\n\n    ",
+    "metadata": {
+      "program_id": 400,
+      "program_type": "PGE",
+      "school_type": "Grande Ecole",
+      "school_name": "ESSCA Business School",
+      "price": 15300.0,
+      "campuses": "['Angers', 'Paris']",
+      "French": false,
+      "English": false,
+      "Both": true,
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
