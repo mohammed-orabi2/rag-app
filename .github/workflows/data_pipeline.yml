@@ -9,7 +9,7 @@ on:
       target_branch:
         description: 'Target branch for pull request'
         required: false
-        default: 'test'
+        default: 'main'
         type: string
 
 permissions:
@@ -52,9 +52,9 @@ jobs:
           git fetch origin
 
           # Check if we're behind
-          if ! git merge-base --is-ancestor origin/test HEAD; then
-            echo "Branch is behind origin/test, pulling changes"
-            git pull origin test --no-edit
+          if ! git merge-base --is-ancestor origin/main HEAD; then
+            echo "Branch is behind origin/main, pulling changes"
+            git pull origin main --no-edit
           fi
 
           git add data/vector_store/
@@ -67,10 +67,10 @@ jobs:
             git commit -m "Update VDB and JSON files - $(date -u +"%Y-%m-%d %H:%M UTC")"
             
             # Try to push, if it fails due to conflicts, pull and try again
-            if ! git push origin test; then
+            if ! git push origin main; then
               echo "Push failed, pulling latest changes and retrying"
-              git pull origin test --no-edit
-              git push origin test
+              git pull origin main --no-edit
+              git push origin main
             fi
             
             echo "has_changes=true" >> $GITHUB_ENV
