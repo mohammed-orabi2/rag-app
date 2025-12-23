@@ -14,8 +14,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -34,8 +34,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 1,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -346,8 +346,8 @@
       "primos_arrivant": "",
       "school_rank": 20,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -565,8 +565,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 20,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -584,8 +584,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 20,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -603,8 +603,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -1109,8 +1109,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 12,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -1129,8 +1129,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 12,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -1149,8 +1149,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 12,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -1330,8 +1330,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 11,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -1350,8 +1350,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 11,
-      "BAC3": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC3": true
     }
   },
   {
@@ -1518,8 +1518,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -1682,8 +1682,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 3,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -2146,9 +2146,9 @@
       "Mix": true,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC3": true,
       "BAC": true,
       "BAC2": true,
+      "BAC3": true,
       "BAC1": true
     }
   },
@@ -2393,10 +2393,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 8,
-      "BAC3": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -2433,8 +2433,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 8,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -2826,8 +2826,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 10,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -3090,8 +3090,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 7,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -3297,8 +3297,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 15,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -3317,8 +3317,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 15,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -3432,8 +3432,8 @@
       "primos_arrivant": "",
       "school_rank": 22,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -3451,8 +3451,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -3471,8 +3471,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -3491,8 +3491,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -3511,9 +3511,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC3": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC3": true
     }
   },
   {
@@ -3569,8 +3569,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -3858,9 +3858,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -4256,8 +4256,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -4276,9 +4276,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -4288,7 +4288,7 @@
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 15250.0,
+      "price": 15330.0,
       "campuses": "['La Rochelle', 'Paris', 'Tours']",
       "French": true,
       "English": true,
@@ -4296,38 +4296,39 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true,
       "BAC": true,
       "BAC2": true,
+      "BAC3": true,
       "BAC1": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in Brand Management\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in Sustainable Luxury & Brand Management\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13500 to €16000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 370,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
-      "campuses": "['La Rochelle']",
+      "price": 14333.333333333334,
+      "campuses": "['Paris']",
       "French": false,
       "English": true,
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Ingénieur d'Affaires\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Ingénieur d'Affaires\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13500 to €16000  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 371,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
+      "price": 14333.333333333334,
       "campuses": "['La Rochelle', 'Orléans']",
       "French": true,
       "English": false,
@@ -4335,17 +4336,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Digital Marketing\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans, Paris, Tours  \n**Available Languages:** English, French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Digital Marketing\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13500 to €16000  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans, Paris, Tours  \n**Available Languages:** English, French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 372,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
+      "price": 14333.333333333334,
       "campuses": "['La Rochelle', 'Orléans', 'Paris', 'Tours']",
       "French": true,
       "English": true,
@@ -4353,7 +4355,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4412,13 +4415,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Stratégie et Développement des Ressources Humaines\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Stratégie et Développement des Ressources Humaines\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13500 to €16000  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 376,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
+      "price": 14333.333333333334,
       "campuses": "['Tours']",
       "French": true,
       "English": false,
@@ -4426,7 +4429,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4448,13 +4452,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Stratégies du Développement durable et de la RSE\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Stratégies du Développement durable et de la RSE\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 378,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
+      "price": "N/A",
       "campuses": "['La Rochelle']",
       "French": true,
       "English": false,
@@ -4462,7 +4466,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4556,13 +4561,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Management Intégré des Achats et de la Supply Chain\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans, Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Management Intégré des Achats et de la Supply Chain\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans, Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 384,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
+      "price": "N/A",
       "campuses": "['La Rochelle', 'Orléans', 'Tours']",
       "French": true,
       "English": false,
@@ -4570,17 +4575,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc in Sustainable Global Supply Chain Management\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc in Sustainable Global Supply Chain Management\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13500 to €16000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 385,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
+      "price": 14333.333333333334,
       "campuses": "['Paris']",
       "French": false,
       "English": true,
@@ -4588,7 +4594,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4610,13 +4617,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Gestion des Services Immobiliers\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Gestion des Services Immobiliers\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only, Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 387,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
+      "price": "N/A",
       "campuses": "['Tours']",
       "French": true,
       "English": false,
@@ -4624,7 +4631,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -4643,8 +4651,8 @@
       "primos_arrivant": "",
       "school_rank": 14,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -4844,8 +4852,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -4864,9 +4872,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC3": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC3": true
     }
   },
   {
@@ -4974,8 +4982,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -4994,8 +5002,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5014,8 +5022,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5034,10 +5042,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
+      "BAC": true,
+      "BAC1": true,
       "BAC3": true,
       "BAC4": true,
-      "BAC1": true,
-      "BAC": true,
       "BAC2": true
     }
   },
@@ -5095,8 +5103,8 @@
       "primos_arrivant": "",
       "school_rank": 25,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -5114,8 +5122,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 25,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -5303,8 +5311,8 @@
       "primos_arrivant": "",
       "school_rank": 29,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -5508,8 +5516,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -5599,8 +5607,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5619,8 +5627,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5658,8 +5666,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5678,8 +5686,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5698,8 +5706,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5718,8 +5726,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5738,8 +5746,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5759,8 +5767,8 @@
       "primos_arrivant": "",
       "school_rank": 24,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -5779,8 +5787,8 @@
       "primos_arrivant": "",
       "school_rank": 24,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -5798,8 +5806,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5836,8 +5844,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5856,8 +5864,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5876,8 +5884,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5896,8 +5904,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -5992,8 +6000,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 28,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -6105,8 +6113,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6125,10 +6133,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -6239,8 +6247,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6259,8 +6267,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6448,8 +6456,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6468,8 +6476,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6488,8 +6496,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6508,8 +6516,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6528,8 +6536,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6548,8 +6556,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6568,8 +6576,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6588,8 +6596,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6608,8 +6616,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -6628,10 +6636,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -6883,10 +6891,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -6976,8 +6984,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 21,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -7014,8 +7022,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -7052,8 +7060,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -7072,8 +7080,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -7129,8 +7137,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -7149,8 +7157,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -7263,9 +7271,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC3": true,
       "BAC": true,
       "BAC2": true,
+      "BAC3": true,
       "BAC1": true
     }
   },
@@ -7340,8 +7348,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -7360,9 +7368,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC3": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC3": true
     }
   },
   {
@@ -7676,10 +7684,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -7752,8 +7760,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -8659,10 +8667,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -8716,8 +8724,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -8736,8 +8744,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -8775,8 +8783,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -8795,9 +8803,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 16,
-      "BAC3": true,
       "BAC": true,
       "BAC2": true,
+      "BAC3": true,
       "BAC1": true
     }
   },
@@ -8907,8 +8915,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 30,
-      "BAC3": true,
-      "BAC": true
+      "BAC": true,
+      "BAC3": true
     }
   },
   {
@@ -9095,8 +9103,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC3": true,
       "BAC": true,
+      "BAC3": true,
       "BAC1": true
     }
   },
@@ -9259,8 +9267,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -9279,10 +9287,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
+      "BAC": true,
+      "BAC1": true,
       "BAC3": true,
       "BAC4": true,
-      "BAC1": true,
-      "BAC": true,
       "BAC2": true
     }
   },
@@ -9302,8 +9310,8 @@
       "primos_arrivant": "",
       "school_rank": 17,
       "BAC": true,
-      "BAC1": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9321,10 +9329,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
+      "BAC": true,
+      "BAC1": true,
       "BAC3": true,
       "BAC4": true,
-      "BAC1": true,
-      "BAC": true,
       "BAC2": true
     }
   },
@@ -9343,8 +9351,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -9363,9 +9371,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC3": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC3": true
     }
   },
   {
@@ -9455,10 +9463,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -9512,10 +9520,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -9641,10 +9649,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -10530,10 +10538,10 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true,
-      "BAC3": true
+      "BAC2": true,
+      "BAC3": true,
+      "BAC1": true
     }
   },
   {
@@ -11376,8 +11384,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC2": true,
       "BAC": true,
+      "BAC2": true,
       "BAC1": true
     }
   },
@@ -11514,7 +11522,7 @@
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 14750.0,
+      "price": 14333.333333333334,
       "campuses": "['La Rochelle', 'Orléans']",
       "French": true,
       "English": false,
@@ -11745,6 +11753,24 @@
       "school_rank": 18,
       "BAC3": true,
       "BAC4": true
+    }
+  },
+  {
+    "page_content": "\n# 🎓 MSc Entrepreneuriat et Organisations de l'Economie Sociale et Solidaire\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Niort  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "metadata": {
+      "program_id": 1432,
+      "program_type": "MSc",
+      "school_type": "Grande Ecole",
+      "school_name": "EXCELIA Group",
+      "price": "N/A",
+      "campuses": "['La Rochelle', 'Niort']",
+      "French": true,
+      "English": false,
+      "Both": false,
+      "Mix": false,
+      "primos_arrivant": "",
+      "school_rank": 13,
+      "BAC3": true
     }
   }
 ]
