@@ -1,6 +1,6 @@
 [
   {
-    "page_content": "\n# 🎓 Formation Architecte d’intérieur\n\n**School:** CREAD - EDH Group  \n**Program Type:** Other  \n**School Type:** Ecole Spécialisée  \n**Field:** Arts Schools  \n**School Rank** 27\n**Price Range:** from €7900 to €10420  \n**Available Intakes:** N/A  \n**Available Campuses:** Aix-en-Provence, Bordeaux, Lille, Lyon, Montpellier, Nantes, Rennes, Toulouse  \n**Available Languages:** French, Mix  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 certification, Qualiopi (quality certification), Charte Erasmus+\n        --------End of program--------",
+    "page_content": "\n# 🎓 Formation Architecte d’intérieur\n\n**School:** CREAD - EDH Group  \n**Program Type:** Other  \n**School Type:** Ecole Spécialisée  \n**Field:** Arts Schools  \n**School Rank** 28\n**Price Range:** from €7900 to €10420  \n**Available Intakes:** N/A  \n**Available Campuses:** Aix-en-Provence, Bordeaux, Lille, Lyon, Montpellier, Nantes, Rennes, Toulouse  \n**Available Languages:** French, Mix  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 certification, Qualiopi (quality certification), Charte Erasmus+\n        --------End of program--------",
     "metadata": {
       "program_id": 1,
       "program_type": "Other",
@@ -13,12 +13,12 @@
       "Both": false,
       "Mix": true,
       "primos_arrivant": "",
-      "school_rank": 27,
+      "school_rank": 28,
       "BAC2": true,
-      "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC3": true,
+      "BAC": true,
+      "BAC4": true
     }
   },
   {
@@ -130,7 +130,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Formation journaliste plurimédia\n\n**School:** EFJ - EDH Group  \n**Program Type:** Other  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 14\n**Price Range:** from €8030 to €9210  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** N/A\n        --------End of program--------",
+    "page_content": "\n# 🎓 Formation journaliste plurimédia\n\n**School:** EFJ - EDH Group  \n**Program Type:** Other  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 15\n**Price Range:** from €8030 to €9210  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** N/A\n        --------End of program--------",
     "metadata": {
       "program_id": 8,
       "program_type": "Other",
@@ -143,9 +143,9 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 14,
-      "BAC1": true,
-      "BAC": true
+      "school_rank": 15,
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -163,9 +163,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -242,7 +242,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Formation manager de la communication\n\n**School:** EFAP - EDH Group  \n**Program Type:** Other  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** from €7770 to €14250  \n**Available Intakes:** N/A  \n**Available Campuses:** Aix-en-Provence, Bordeaux, Lille, Lyon, Montpellier, Nice, Paris, Rennes, Strasbourg, Toulouse  \n**Available Languages:** Both, English, French  \n**Alternance Options:** Alternance_Only, Available, Not_Available  \n**Available Specializations:** Création & Stratégies Publicitaires, Strategic Communication & Marketing, Communication & Marketing Stratégique, Communication & Management Événementiel, Communication Publique & Influence, Communication & Relations Médias, Brand Content, Stratégie Éditoriale & Nouveaux Médias, Communication & Production Audiovisuelle, Sport Business & Communication, Communication & Santé, Communication RSE & Développement Durable, Communication & Marketing des Vins et Spiritueux, Communication & Gastronomie, Communication in Fashion Industries, Luxury Communication & Strategies, Digital Marketing & Business, Digital Marketing & Business, Digital Marketing & Business Health, Digital Marketing & Business Beauty & Cosmetics, Digital Marketing & Business Luxe, MBA Ingénierie Culturelle & Management, MBA International Art Market, MBA Music Business Management\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 Formation manager de la communication\n\n**School:** EFAP - EDH Group  \n**Program Type:** Other  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** from €7770 to €14250  \n**Available Intakes:** N/A  \n**Available Campuses:** Aix-en-Provence, Bordeaux, Lille, Lyon, Montpellier, Nice, Paris, Rennes, Strasbourg, Toulouse  \n**Available Languages:** Both, English, French  \n**Alternance Options:** Alternance_Only, Available, Not_Available  \n**Available Specializations:** Création & Stratégies Publicitaires, Strategic Communication & Marketing, Communication & Marketing Stratégique, Communication & Management Événementiel, Communication Publique & Influence, Communication & Relations Médias, Brand Content, Stratégie Éditoriale & Nouveaux Médias, Communication & Production Audiovisuelle, Sport Business & Communication, Communication & Santé, Communication RSE & Développement Durable, Communication & Marketing des Vins et Spiritueux, Communication & Gastronomie, Communication in Fashion Industries, Luxury Communication & Strategies, Digital Marketing & Business, Digital Marketing & Business, Digital Marketing & Business Health, Digital Marketing & Business Beauty & Cosmetics, Digital Marketing & Business Luxe, MBA Ingénierie Culturelle & Management, MBA International Art Market, MBA Music Business Management\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 14,
       "program_type": "Other",
@@ -255,16 +255,16 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC2": true,
-      "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC3": true,
+      "BAC": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Strategic Communication & Marketing\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Aix-en-Provence, Bordeaux, Lille, Lyon, Montpellier, Paris, Strasbourg, Toulouse  \n**Available Languages:** Both, French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Strategic Communication & Marketing\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Aix-en-Provence, Bordeaux, Lille, Lyon, Montpellier, Paris, Strasbourg, Toulouse  \n**Available Languages:** Both, French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 15,
       "program_type": "Mastère",
@@ -277,12 +277,12 @@
       "Both": true,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication & Management Événementiel\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication & Management Événementiel\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 16,
       "program_type": "Mastère",
@@ -295,12 +295,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Création & Stratégies Publicitaires\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Création & Stratégies Publicitaires\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 17,
       "program_type": "Mastère",
@@ -313,12 +313,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication Publique & Influence\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** from €11680 to €11830  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication Publique & Influence\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** from €11680 to €11830  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 18,
       "program_type": "Mastère",
@@ -331,12 +331,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication & Relations Médias\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication & Relations Médias\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 19,
       "program_type": "Mastère",
@@ -349,12 +349,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Brand Content, Stratégie Éditoriale & Nouveaux Médias\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Brand Content, Stratégie Éditoriale & Nouveaux Médias\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 20,
       "program_type": "Mastère",
@@ -367,12 +367,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication & Production Audiovisuelle\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication & Production Audiovisuelle\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 21,
       "program_type": "Mastère",
@@ -385,12 +385,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Sport Business & Communication\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Sport Business & Communication\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 22,
       "program_type": "Mastère",
@@ -403,12 +403,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication & Santé\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication & Santé\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 23,
       "program_type": "Mastère",
@@ -421,12 +421,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication RSE & Développement Durable\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication RSE & Développement Durable\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 24,
       "program_type": "Mastère",
@@ -439,12 +439,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication & Marketing des Vins et Spiritueux\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication & Marketing des Vins et Spiritueux\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 25,
       "program_type": "Mastère",
@@ -457,12 +457,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication & Gastronomie\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication & Gastronomie\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 26,
       "program_type": "Mastère",
@@ -475,12 +475,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Communication in Fashion Industries\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11830  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Communication in Fashion Industries\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11830  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 27,
       "program_type": "Mastère",
@@ -493,12 +493,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Luxury Communication & Strategies\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11830  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Luxury Communication & Strategies\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11830  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 28,
       "program_type": "Mastère",
@@ -511,12 +511,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Digital Marketing & Business\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** from €14250 to €15710  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Digital Marketing & Business\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** from €14250 to €15710  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 29,
       "program_type": "Mastère",
@@ -529,12 +529,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Digital Marketing & Business Health\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Digital Marketing & Business Health\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 30,
       "program_type": "Mastère",
@@ -547,12 +547,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Digital Marketing & Business Beauty & Cosmetics\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Digital Marketing & Business Beauty & Cosmetics\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 31,
       "program_type": "Mastère",
@@ -565,12 +565,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Digital Marketing & Business Luxe\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Digital Marketing & Business Luxe\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 32,
       "program_type": "Mastère",
@@ -583,7 +583,7 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
@@ -602,9 +602,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -622,9 +622,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -642,9 +642,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -662,9 +662,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -682,9 +682,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -702,9 +702,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1051,7 +1051,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Bachelor in Marketing & Business\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Bachelor  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** from €8500 to €9000  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Grenoble, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse  \n**Available Languages:** English, French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** Sustainable marketing, Sustainable procurement, Management commercial et sales intelligence, Finance d'entreprise\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 Bachelor in Marketing & Business\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Bachelor  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** from €8500 to €9000  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Grenoble, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse  \n**Available Languages:** English, French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** Sustainable marketing, Sustainable procurement, Management commercial et sales intelligence, Finance d'entreprise\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 176,
       "program_type": "Bachelor",
@@ -1064,13 +1064,13 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC": true,
       "BAC2": true
     }
   },
   {
-    "page_content": "\n# 🎓 Programme Grande École\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** PGE  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** from €10500 to €12000  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon  \n**Available Languages:** Both, English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** Strategic Management & Sustainable Business Models\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 Programme Grande École\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** PGE  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** from €10500 to €12000  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon  \n**Available Languages:** Both, English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** Strategic Management & Sustainable Business Models\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 177,
       "program_type": "PGE",
@@ -1083,14 +1083,14 @@
       "Both": true,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
-      "BAC1": true,
+      "school_rank": 24,
       "BAC": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Ingénierie d'affaires\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** from €9000 to €10900  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Grasse, Grenoble, Lille, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Ingénierie d'affaires\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** from €9000 to €10900  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Grasse, Grenoble, Lille, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 178,
       "program_type": "Mastère",
@@ -1103,12 +1103,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC3": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Marketing, e-Business & IA\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** from €9000 to €10900  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Grenoble, Lille, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Marketing, e-Business & IA\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** from €9000 to €10900  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Grenoble, Lille, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 179,
       "program_type": "Mastère",
@@ -1121,12 +1121,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC3": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Achats & Supply Chain Responsables\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** from €9000 to €13350  \n**Available Intakes:** N/A  \n**Available Campuses:** Grenoble, Lille, Lyon, Nantes  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Achats & Supply Chain Responsables\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** from €9000 to €13350  \n**Available Intakes:** N/A  \n**Available Campuses:** Grenoble, Lille, Lyon, Nantes  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 180,
       "program_type": "Mastère",
@@ -1139,12 +1139,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC3": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Digital Business et Transformation des Organisations\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** €10900  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon, Montpellier, Nantes  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Digital Business et Transformation des Organisations\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** €10900  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon, Montpellier, Nantes  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 181,
       "program_type": "Mastère",
@@ -1157,12 +1157,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC3": true
     }
   },
   {
-    "page_content": "\n# 🎓 BTS Management Commercial Opérationnel (MCO)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** BTS  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** €6650  \n**Available Intakes:** N/A  \n**Available Campuses:** Lille, Lyon, Montpellier, Nantes, Nice, Paris  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 BTS Management Commercial Opérationnel (MCO)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** BTS  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** €6650  \n**Available Intakes:** N/A  \n**Available Campuses:** Lille, Lyon, Montpellier, Nantes, Nice, Paris  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 182,
       "program_type": "BTS",
@@ -1175,12 +1175,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC": true
     }
   },
   {
-    "page_content": "\n# 🎓 BTS Négociation et Digitalisation de la Relation Client (NDRC)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** BTS  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** €6225  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 BTS Négociation et Digitalisation de la Relation Client (NDRC)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** BTS  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** €6225  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 183,
       "program_type": "BTS",
@@ -1193,12 +1193,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC": true
     }
   },
   {
-    "page_content": "\n# 🎓 BTS Professions Immobilières (PI)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** BTS  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** €6225  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lyon, Nice  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 BTS Professions Immobilières (PI)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** BTS  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** €6225  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lyon, Nice  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 184,
       "program_type": "BTS",
@@ -1211,12 +1211,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC": true
     }
   },
   {
-    "page_content": "\n# 🎓 BTS Support à l'Action Managériale (SAM)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** BTS  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** €6225  \n**Available Intakes:** N/A  \n**Available Campuses:** Grenoble, Montpellier  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 BTS Support à l'Action Managériale (SAM)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** BTS  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** €6225  \n**Available Intakes:** N/A  \n**Available Campuses:** Grenoble, Montpellier  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 185,
       "program_type": "BTS",
@@ -1229,7 +1229,7 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC": true
     }
   },
@@ -1248,9 +1248,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1343,9 +1343,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1363,9 +1363,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1564,9 +1564,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1639,8 +1639,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -1658,9 +1658,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1678,9 +1678,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1698,9 +1698,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1718,9 +1718,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1738,9 +1738,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1758,9 +1758,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1778,9 +1778,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1798,9 +1798,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1836,9 +1836,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1856,9 +1856,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -1876,9 +1876,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -2401,9 +2401,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -2421,9 +2421,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -2441,9 +2441,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -2556,9 +2556,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -2576,9 +2576,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -2596,9 +2596,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -2743,8 +2743,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -2762,8 +2762,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -4981,9 +4981,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -5758,8 +5758,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -6068,9 +6068,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6144,9 +6144,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6164,9 +6164,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6184,9 +6184,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6372,9 +6372,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6483,9 +6483,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6503,9 +6503,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6740,9 +6740,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6760,9 +6760,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6780,9 +6780,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6800,9 +6800,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6820,9 +6820,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6840,9 +6840,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -6860,9 +6860,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7196,9 +7196,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -7217,9 +7217,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -7238,9 +7238,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -7259,9 +7259,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -7280,9 +7280,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -7465,9 +7465,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7485,9 +7485,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7505,9 +7505,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7525,9 +7525,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7697,9 +7697,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7771,9 +7771,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -7792,9 +7792,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7812,9 +7812,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7832,9 +7832,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7852,9 +7852,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7872,9 +7872,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -7964,9 +7964,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8110,8 +8110,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -8165,9 +8165,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8203,9 +8203,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8223,9 +8223,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8243,9 +8243,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8263,9 +8263,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8283,9 +8283,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8303,9 +8303,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8323,9 +8323,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8343,9 +8343,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8437,8 +8437,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
+      "BAC1": true,
       "BAC2": true
     }
   },
@@ -8457,9 +8457,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8477,11 +8477,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
+      "BAC1": true,
       "BAC2": true,
       "BAC3": true,
-      "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC": true,
+      "BAC4": true
     }
   },
   {
@@ -8499,9 +8499,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8519,9 +8519,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8539,9 +8539,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8559,9 +8559,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8765,9 +8765,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -8822,9 +8822,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -8843,9 +8843,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -8956,9 +8956,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -8977,9 +8977,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -8998,9 +8998,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -9253,8 +9253,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -9272,9 +9272,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9292,9 +9292,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9312,9 +9312,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9332,9 +9332,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9503,9 +9503,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9523,9 +9523,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9543,9 +9543,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9563,9 +9563,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9696,9 +9696,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -9717,9 +9717,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -9738,9 +9738,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9758,9 +9758,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9778,9 +9778,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9872,9 +9872,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9910,9 +9910,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9930,9 +9930,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9950,9 +9950,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9970,9 +9970,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -9990,9 +9990,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -10010,9 +10010,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -10030,9 +10030,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -10050,9 +10050,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -10365,9 +10365,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -10385,8 +10385,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
+      "BAC1": true,
       "BAC2": true
     }
   },
@@ -10515,10 +10515,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC2": true,
-      "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC3": true,
+      "BAC": true,
+      "BAC4": true
     }
   },
   {
@@ -10537,10 +10537,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC2": true,
-      "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC3": true,
+      "BAC": true,
+      "BAC4": true
     }
   },
   {
@@ -10559,10 +10559,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC2": true,
-      "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC3": true,
+      "BAC": true,
+      "BAC4": true
     }
   },
   {
@@ -10581,10 +10581,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC2": true,
-      "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC3": true,
+      "BAC": true,
+      "BAC4": true
     }
   },
   {
@@ -10638,9 +10638,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -10660,10 +10660,10 @@
       "primos_arrivant": "",
       "school_rank": 50,
       "BAC2": true,
-      "BAC3": true,
       "BAC1": true,
-      "BAC4": true,
-      "BAC": true
+      "BAC3": true,
+      "BAC": true,
+      "BAC4": true
     }
   },
   {
@@ -10681,9 +10681,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -10702,9 +10702,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -10723,9 +10723,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -10780,9 +10780,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -11403,9 +11403,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -11531,9 +11531,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -11624,9 +11624,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -11644,9 +11644,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -11664,9 +11664,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -11782,7 +11782,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Ingénierie Culturelle & Management (Double diplôme par ICART)\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Ingénierie Culturelle & Management (Double diplôme par ICART)\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Bordeaux, Lille, Lyon, Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 1174,
       "program_type": "Mastère",
@@ -11795,12 +11795,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA International Art Market (Dual degree by ICART)\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** from €11680 to €11880  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English, French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA International Art Market (Dual degree by ICART)\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** from €11680 to €11880  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English, French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 1175,
       "program_type": "Mastère",
@@ -11813,12 +11813,12 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Spécialisé Music Business (Double diplôme par ICART)\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** un ranked\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Spécialisé Music Business (Double diplôme par ICART)\n\n**School:** EFAP - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 2\n**Price Range:** €11680  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** French  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 – Manager de la communication, RNCP Level 7 – Manager du marketing et de la transformation digitale, IAB France label, Qualiopi certification, Member of FEDE, Partner of EAIE, Erasmus+ Charter\n        --------End of program--------",
     "metadata": {
       "program_id": 1176,
       "program_type": "Mastère",
@@ -11831,7 +11831,7 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 50,
+      "school_rank": 2,
       "BAC4": true
     }
   },
@@ -11943,9 +11943,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -12478,9 +12478,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -12517,9 +12517,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -12555,9 +12555,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -12593,9 +12593,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -12614,9 +12614,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -12634,9 +12634,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -12842,9 +12842,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -12862,9 +12862,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -13156,9 +13156,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -13176,8 +13176,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -13350,7 +13350,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Master in Management (Master Grande École)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** €12000  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon  \n**Available Languages:** English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** Strategic Management & Sustainable Business Models\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 Master in Management (Master Grande École)\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** €12000  \n**Available Intakes:** N/A  \n**Available Campuses:** Lyon  \n**Available Languages:** English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** Strategic Management & Sustainable Business Models\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 1335,
       "program_type": "Mastère",
@@ -13363,7 +13363,7 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC3": true
     }
   },
@@ -13382,9 +13382,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -13402,9 +13402,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -13696,9 +13696,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -13716,8 +13716,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
-      "BAC": true
+      "BAC": true,
+      "BAC1": true
     }
   },
   {
@@ -13835,7 +13835,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Master in Management (Master Grande École)\n\n**School:** CREAD - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Arts Schools  \n**School Rank** 27\n**Price Range:** €13000  \n**Available Intakes:** N/A  \n**Available Campuses:** Amiens, Angers  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 certification, Qualiopi (quality certification), Charte Erasmus+\n        --------End of program--------",
+    "page_content": "\n# 🎓 Master in Management (Master Grande École)\n\n**School:** CREAD - EDH Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Arts Schools  \n**School Rank** 28\n**Price Range:** €13000  \n**Available Intakes:** N/A  \n**Available Campuses:** Amiens, Angers  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** RNCP Level 7 certification, Qualiopi (quality certification), Charte Erasmus+\n        --------End of program--------",
     "metadata": {
       "program_id": 1372,
       "program_type": "Mastère",
@@ -13848,7 +13848,7 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 27,
+      "school_rank": 28,
       "BAC": true
     }
   },
@@ -13928,7 +13928,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Test\n\n**School:** CREAD - EDH Group  \n**Program Type:** Other  \n**School Type:** Ecole Spécialisée  \n**Field:** Arts Schools  \n**School Rank** 27\n**Price Range:** €50  \n**Available Intakes:** N/A  \n**Available Campuses:** Agen, Aix-en-Provence, Amiens  \n**Available Languages:** English  \n**Alternance Options:** Available  \n**Available Specializations:** Test\n**School Accreditations:** RNCP Level 7 certification, Qualiopi (quality certification), Charte Erasmus+\n        --------End of program--------",
+    "page_content": "\n# 🎓 Test\n\n**School:** CREAD - EDH Group  \n**Program Type:** Other  \n**School Type:** Ecole Spécialisée  \n**Field:** Arts Schools  \n**School Rank** 28\n**Price Range:** €50  \n**Available Intakes:** N/A  \n**Available Campuses:** Agen, Aix-en-Provence, Amiens  \n**Available Languages:** English  \n**Alternance Options:** Available  \n**Available Specializations:** Test\n**School Accreditations:** RNCP Level 7 certification, Qualiopi (quality certification), Charte Erasmus+\n        --------End of program--------",
     "metadata": {
       "program_id": 1383,
       "program_type": "Other",
@@ -13941,10 +13941,10 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 27,
-      "BAC1": true,
+      "school_rank": 28,
       "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC1": true
     }
   },
   {
@@ -14016,8 +14016,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC2": true,
+      "BAC1": true,
       "BAC3": true
     }
   },
@@ -14058,7 +14058,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MBA Luxury Marketing & Innovation\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 23\n**Price Range:** €13500  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
+    "page_content": "\n# 🎓 MBA Luxury Marketing & Innovation\n\n**School:** IDRAC - FIGS Group  \n**Program Type:** Mastère  \n**School Type:** Ecole Spécialisée  \n**Field:** Business School  \n**School Rank** 24\n**Price Range:** €13500  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EFMD (member), AACSB (member)\n        --------End of program--------",
     "metadata": {
       "program_id": 1403,
       "program_type": "Mastère",
@@ -14071,7 +14071,7 @@
       "Both": false,
       "Mix": false,
       "primos_arrivant": "",
-      "school_rank": 23,
+      "school_rank": 24,
       "BAC3": true
     }
   }
