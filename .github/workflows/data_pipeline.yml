@@ -78,7 +78,7 @@ jobs:
 
       - name: Reload ChromaDB using docker compose
         run: |
-          cd counselling-bot/Docker
+          cd "$GITHUB_WORKSPACE/Docker"
           docker compose up -d --force-recreate chromadb
 
       - name: Health check ChromaDB
