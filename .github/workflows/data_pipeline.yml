@@ -36,8 +36,6 @@ jobs:
         env:
           API_SECRET: ${{ secrets.API_SECRET }}
           BASE_URL: ${{ secrets.BASE_URL }}
-          CHROMA_CONTAINER: chromadb
-          CHROMA_PORT: 8000
 
         run: |
           source $HOME/sg/bin/activate
@@ -58,7 +56,7 @@ jobs:
           fi
 
           git add data/vector_store/
-          git add data/chroma_documents/*.json
+          git add data/parents/parent_documents.json
 
           if git diff --staged --quiet; then
             echo "No changes detected"
