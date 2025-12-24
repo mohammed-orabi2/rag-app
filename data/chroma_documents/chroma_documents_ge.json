@@ -345,9 +345,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 20,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -623,8 +623,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 5,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -2146,9 +2146,9 @@
       "Mix": true,
       "primos_arrivant": "",
       "school_rank": 6,
-      "BAC1": true,
       "BAC3": true,
       "BAC": true,
+      "BAC1": true,
       "BAC2": true
     }
   },
@@ -2393,9 +2393,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 8,
-      "BAC1": true,
       "BAC3": true,
       "BAC": true,
+      "BAC1": true,
       "BAC2": true
     }
   },
@@ -2414,8 +2414,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 8,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -3431,9 +3431,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -3511,19 +3511,19 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 22,
-      "BAC3": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC3": true
     }
   },
   {
-    "page_content": "\n# 🎓 Bachelor en Management des Services\n\n**School:** NEOMA Business School  \n**Program Type:** Bachelor  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €7500 to €12000  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** Management des métiers de la distribution, Management des métiers de la gastronomie\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 Bachelor en Management des Services\n\n**School:** NEOMA Business School  \n**Program Type:** Bachelor  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €8000 to €12000  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** Management des métiers de la distribution, Management des métiers de la gastronomie\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 327,
       "program_type": "Bachelor",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 9750.0,
+      "price": 10000.0,
       "campuses": "['Rouen']",
       "French": true,
       "English": false,
@@ -3536,13 +3536,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Global BBA\n\n**School:** NEOMA Business School  \n**Program Type:** BBA  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** €14200  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Reims, Rouen  \n**Available Languages:** English  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 Global BBA\n\n**School:** NEOMA Business School  \n**Program Type:** BBA  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** €14000  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Reims, Rouen  \n**Available Languages:** English  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 328,
       "program_type": "BBA",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 14200.0,
+      "price": 14000.0,
       "campuses": "['Paris', 'Reims', 'Rouen']",
       "French": false,
       "English": true,
@@ -3550,18 +3550,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
-    "page_content": "\n# 🎓 TEMA Innovation et Digital Management\n\n**School:** NEOMA Business School  \n**Program Type:** PGE  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** €11200  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Reims, Rouen  \n**Available Languages:** English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 TEMA Innovation et Digital Management\n\n**School:** NEOMA Business School  \n**Program Type:** PGE  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** €11500  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Reims, Rouen  \n**Available Languages:** English, French  \n**Alternance Options:** Available, Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 329,
       "program_type": "PGE",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 11200.0,
+      "price": 11500.0,
       "campuses": "['Paris', 'Reims', 'Rouen']",
       "French": true,
       "English": true,
@@ -3574,15 +3574,15 @@
     }
   },
   {
-    "page_content": "\n# 🎓 Master in Management (Master Grande École)\n\n**School:** NEOMA Business School  \n**Program Type:** MIM  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** €17500  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Reims, Rouen  \n**Available Languages:** English, French  \n**Alternance Options:** Alternance_Only, Available, Not_Available  \n**Available Specializations:** Marketing & Business Development, All Masters of Science are available, All Masters of Science are available, All Mastères spécialisés are available, Finance, Supply Chain Management and Purchasing\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 Master in Management (Master Grande École)\n\n**School:** NEOMA Business School  \n**Program Type:** MIM  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €17500 to €18500  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Reims, Rouen  \n**Available Languages:** English, French  \n**Alternance Options:** Alternance_Only, Not_Available  \n**Available Specializations:** Marketing & Business Development, All Masters of Science are available, All Masters of Science are available, All Mastères spécialisés are available, Finance, Supply Chain Management and Purchasing\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 330,
       "program_type": "MIM",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 17500.0,
+      "price": 18166.666666666668,
       "campuses": "['Paris', 'Reims', 'Rouen']",
-      "French": true,
+      "French": false,
       "English": true,
       "Both": false,
       "Mix": false,
@@ -3592,13 +3592,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc International Finance\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €16250 to €21500  \n**Available Intakes:** N/A  \n**Available Campuses:** Reims, Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** Corporate Finance & Investment Banking, Financial Markets & Risk Management, Real Estate & Wealth Management\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc International Finance\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €16750 to €22500  \n**Available Intakes:** N/A  \n**Available Campuses:** Reims, Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** Corporate Finance & Investment Banking, Financial Markets & Risk Management, Asset Management & Investment Research\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 331,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 18000.0,
+      "price": 18666.666666666668,
       "campuses": "['Reims', 'Rouen']",
       "French": false,
       "English": true,
@@ -3606,17 +3606,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Marketing\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15150 to €19300  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Reims, Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** Digital & Data Marketing, International Brand Management, Luxury Marketing\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Marketing\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15250 to €19500  \n**Available Intakes:** N/A  \n**Available Campuses:** Paris, Reims, Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** Digital & Data Marketing, International Brand Management, Luxury Marketing\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 332,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 16533.333333333332,
+      "price": 16666.666666666668,
       "campuses": "['Paris', 'Reims', 'Rouen']",
       "French": false,
       "English": true,
@@ -3624,17 +3625,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Business Analytics\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15150 to €19300  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Business Analytics\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15250 to €19500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 333,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 16533.333333333332,
+      "price": 16666.666666666668,
       "campuses": "['Rouen']",
       "French": false,
       "English": true,
@@ -3647,13 +3649,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc ArtificiaI Intelligence for Business\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15150 to €19300  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc ArtificiaI Intelligence for Business\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15250 to €19500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 334,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 16533.333333333332,
+      "price": 16666.666666666668,
       "campuses": "['Rouen']",
       "French": false,
       "English": true,
@@ -3661,17 +3663,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Global Management\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15150 to €19300  \n**Available Intakes:** N/A  \n**Available Campuses:** Reims, Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Global Management\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15250 to €19500  \n**Available Intakes:** N/A  \n**Available Campuses:** Reims, Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 335,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 16533.333333333332,
+      "price": 16666.666666666668,
       "campuses": "['Reims', 'Rouen']",
       "French": false,
       "English": true,
@@ -3679,17 +3682,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc International Business Development\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15150 to €19300  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc International Business Development\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15250 to €19500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 336,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 16533.333333333332,
+      "price": 16666.666666666668,
       "campuses": "['Rouen']",
       "French": false,
       "English": true,
@@ -3697,17 +3701,18 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
-    "page_content": "\n# 🎓 MSc International Project Development\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15150 to €19300  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc International Project Development\n\n**School:** NEOMA Business School  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 4\n**Price Range:** from €15250 to €19500  \n**Available Intakes:** N/A  \n**Available Campuses:** Rouen  \n**Available Languages:** English  \n**Alternance Options:** Not_Available  \n**Available Specializations:** no specializations\n**School Accreditations:** EQUIS, AACSB, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 337,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "NEOMA Business School",
-      "price": 16533.333333333332,
+      "price": 16666.666666666668,
       "campuses": "['Rouen']",
       "French": false,
       "English": true,
@@ -3715,7 +3720,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 4,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -3858,9 +3864,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 9,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -4276,9 +4282,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -4298,8 +4304,8 @@
       "school_rank": 13,
       "BAC1": true,
       "BAC": true,
-      "BAC2": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC2": true
     }
   },
   {
@@ -4322,13 +4328,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Ingénieur d'Affaires\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13500 to €16000  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Ingénieur d'Affaires\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 371,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 14333.333333333334,
+      "price": "N/A",
       "campuses": "['La Rochelle', 'Orléans']",
       "French": true,
       "English": false,
@@ -4360,7 +4366,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc International Event Management\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle  \n**Available Languages:** French, Mix  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc International Event Management\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle  \n**Available Languages:** French, Mix  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 373,
       "program_type": "MSc",
@@ -4416,13 +4422,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Stratégie et Développement des Ressources Humaines\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €13500 to €16000  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Stratégie et Développement des Ressources Humaines\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 376,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 14333.333333333334,
+      "price": "N/A",
       "campuses": "['Tours']",
       "French": true,
       "English": false,
@@ -4453,7 +4459,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Stratégies du Développement durable et de la RSE\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Stratégies du Développement durable et de la RSE\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 378,
       "program_type": "MSc",
@@ -4548,7 +4554,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Contrôle de Gestion et Business Intelligence\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Contrôle de Gestion et Business Intelligence\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 383,
       "program_type": "MSc",
@@ -4567,7 +4573,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Management Intégré des Achats et de la Supply Chain\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans, Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Management Intégré des Achats et de la Supply Chain\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** La Rochelle, Orléans, Tours  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 384,
       "program_type": "MSc",
@@ -4623,7 +4629,7 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Gestion des Services Immobiliers\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only, Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Gestion des Services Immobiliers\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Alternance_Only  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 387,
       "program_type": "MSc",
@@ -4656,9 +4662,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 14,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -4878,9 +4884,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 18,
-      "BAC3": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC3": true
     }
   },
   {
@@ -5048,11 +5054,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 27,
-      "BAC3": true,
       "BAC4": true,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true
+      "BAC2": true,
+      "BAC1": true,
+      "BAC3": true
     }
   },
   {
@@ -5108,9 +5114,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 25,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -5316,9 +5322,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 29,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -5772,9 +5778,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -5792,9 +5798,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -5930,8 +5936,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 28,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -5949,8 +5955,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 28,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -5968,8 +5974,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 28,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -5987,8 +5993,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 28,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -6297,13 +6303,13 @@
     }
   },
   {
-    "page_content": "\n# 🎓 MSc Gestion de patrimoine\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** from €12900 to €15000  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
+    "page_content": "\n# 🎓 MSc Gestion de patrimoine\n\n**School:** EXCELIA Group  \n**Program Type:** MSc  \n**School Type:** Grande Ecole  \n**Field:** Business School  \n**School Rank** 13\n**Price Range:** Price not available  \n**Available Intakes:** N/A  \n**Available Campuses:** Tours  \n**Available Languages:** French  \n**Alternance Options:** Available  \n**Available Specializations:** no specializations\n**School Accreditations:** AACSB, EQUIS, AMBA\n        --------End of program--------",
     "metadata": {
       "program_id": 928,
       "program_type": "MSc",
       "school_type": "Grande Ecole",
       "school_name": "EXCELIA Group",
-      "price": 13600.0,
+      "price": "N/A",
       "campuses": "['Tours']",
       "French": true,
       "English": false,
@@ -6311,7 +6317,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 13,
-      "BAC3": true
+      "BAC3": true,
+      "BAC4": true
     }
   },
   {
@@ -7183,8 +7190,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 24,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -7277,9 +7284,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC1": true,
       "BAC3": true,
       "BAC": true,
+      "BAC1": true,
       "BAC2": true
     }
   },
@@ -7374,9 +7381,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 23,
-      "BAC3": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC3": true
     }
   },
   {
@@ -8402,8 +8409,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8421,8 +8428,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8529,8 +8536,8 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC": true,
-      "BAC2": true
+      "BAC2": true,
+      "BAC": true
     }
   },
   {
@@ -8811,8 +8818,8 @@
       "school_rank": 16,
       "BAC1": true,
       "BAC": true,
-      "BAC2": true,
-      "BAC3": true
+      "BAC3": true,
+      "BAC2": true
     }
   },
   {
@@ -9293,11 +9300,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC3": true,
       "BAC4": true,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true
+      "BAC2": true,
+      "BAC1": true,
+      "BAC3": true
     }
   },
   {
@@ -9315,9 +9322,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC1": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC1": true
     }
   },
   {
@@ -9335,11 +9342,11 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 17,
-      "BAC3": true,
       "BAC4": true,
-      "BAC2": true,
       "BAC": true,
-      "BAC1": true
+      "BAC2": true,
+      "BAC1": true,
+      "BAC3": true
     }
   },
   {
@@ -9377,9 +9384,9 @@
       "Mix": false,
       "primos_arrivant": "",
       "school_rank": 50,
-      "BAC3": true,
+      "BAC2": true,
       "BAC": true,
-      "BAC2": true
+      "BAC3": true
     }
   },
   {
